@@ -7,6 +7,7 @@ RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /game/index.php [L]
+RewriteRule ^admin/(.*)$ wp-admin/$1 [QSA,L] 
 </IfModule>
 
 # END WordPress

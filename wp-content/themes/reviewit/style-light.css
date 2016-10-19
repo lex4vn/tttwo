@@ -1,0 +1,600 @@
+/*************************** General Styling ***************************/
+
+/* Page Styling */
+body {
+background: #f9f9f9 url(lib/images/page_bg_3.png) repeat-x;
+color: #808080;
+}
+
+/* Text Styling */
+a:hover {
+color: #808080;
+}
+h1, h2, h3, h4, h5, h6 {
+color: #808080;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+color: #808080;
+}
+
+/* List Styling */
+.gp-list li,
+.widget ul li {
+background-image: url(lib/images/light/widget_arrow.png);
+}
+
+/* Form Styling */
+input,
+textarea,
+select,
+#content-wrapper input[type="password"] {
+color: #808080;
+border-color: #d6d6d6;
+background: #f8f8f8;
+background-image: -moz-linear-gradient(#f8f8f8, #fff);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f8f8f8), to(#fff));
+background-image: -webkit-linear-gradient(#f8f8f8, #fff);
+background-image: -o-linear-gradient(#f8f8f8, #fff);
+background-image: -ms-linear-gradient(#f8f8f8, #fff);
+-pie-background: linear-gradient(#f8f8f8, #fff);
+}
+input[type="submit"],
+input[type="reset"],
+button {
+color: #808080;
+border-color: #d6d6d6;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #ebebeb);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#ebebeb));
+background-image: -webkit-linear-gradient(#fff, #ebebeb);
+background-image: -o-linear-gradient(#fff, #ebebeb);
+background-image: -ms-linear-gradient(#fff, #ebebeb);
+-pie-background: linear-gradient(#fff, #ebebeb);
+}
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+button:hover {
+background: #fff;
+}
+fieldset {
+border-color: #d6d6d6;
+}
+
+/* Table Styling */
+.gp-table td {
+border-color: #d6d6d6;
+}
+
+/* Other Styling */
+hr {
+border-color: #d6d6d6;
+}
+pre,
+code {
+background: #fff;
+border-color: #d6d6d6;
+}
+
+
+/*************************** Header ***************************/
+
+/* Header */
+#header-top {
+border-color: #d6d6d6;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #e0e0e0);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#e0e0e0));
+background-image: -webkit-linear-gradient(#fff, #e0e0e0);
+background-image: -o-linear-gradient(#fff, #e0e0e0);
+background-image: -ms-linear-gradient(#fff, #ebebeb);
+-pie-background: linear-gradient(#fff, #e0e0e0);
+}
+#header-bottom {
+background-image: url(lib/images/light/header_bottom.png);
+}
+
+/* Login */
+.login-divider {
+color: #d6d6d6;
+}
+
+/* Search */
+#searchbar {
+background-image: url(lib/images/light/searchbar.png);
+}
+#searchbar:focus {
+background-image: url(lib/images/light/searchbar.png);
+}
+#searchsubmit {
+float: left;
+background-image: url(lib/images/light/searchbar.png);
+}
+#searchsubmit:hover {
+background-image: url(lib/images/light/searchbar.png);
+}
+
+/* Logo */
+.default-logo {
+background-image: url(lib/images/light/logo.png);
+}
+
+/* Display Options */
+#display-compact {
+background-image: url(lib/images/light/display_options.png);
+}
+#display-extended {
+background-image: url(lib/images/light/display_options.png);
+}
+
+
+/*************************** Navigation ***************************/
+
+/* Nav Wrapper */
+#nav-left {
+background-image: url(lib/images/light/nav.png);
+}
+
+/* Top Level Nav */
+#nav ul,
+#nav ul ul {
+background-image: url(lib/images/light/nav.png);
+}
+#nav ul a {
+color: #808080;
+}
+#nav ul a:hover,
+#nav ul .current-menu-item > a,
+#nav ul .current-menu-ancestor > a {
+color: #218df3;
+}
+
+/* Drop Down Menus */
+#nav .sub-menu {
+border-color: #d6d6d6;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #f8f8f8);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#f8f8f8));
+background-image: -webkit-linear-gradient(#fff, #f8f8f8);
+background-image: -o-linear-gradient(#fff, #f8f8f8);
+background-image: -ms-linear-gradient(#fff, #f8f8f8);
+-pie-background: linear-gradient(#fff, #f8f8f8);
+-webkit-box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+-moz-box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+}
+#nav .sub-menu a:hover {
+background: #eee;
+}
+
+
+/*************************** Slider ***************************/
+
+/* Slider */
+#slider {
+border-color: #d6d6d6;
+}
+#slider-error {
+color: #808080;
+background: #fff;
+border-color: #d6d6d6;
+}
+#slider-top {
+background: #d6d6d6;
+}
+
+/* Slider Thumbnails */
+.nivo-controlNav {
+border-color: #d6d6d6;
+}
+.nivo-controlNav a {
+border-color: #d6d6d6;
+color: #cacaca;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #ebebeb);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#ebebeb));
+background-image: -webkit-linear-gradient(#fff, #ebebeb);
+background-image: -o-linear-gradient(#fff, #ebebeb);
+background-image: -ms-linear-gradient(#fff, #ebebeb);
+-pie-background: linear-gradient(#fff, #ebebeb);
+}
+.nivo-controlNav a.active {
+color: #808080;
+background: #fff;
+}
+.nivo-controlNav a:hover {
+background: #fff;
+}
+
+
+/*************************** Page/Post Styling ***************************/
+
+/* Page */
+.page-title {
+border-color: #d6d6d6;
+}
+
+/* Post */
+.post-thumbnail {
+background: #fff;
+border-color: #d6d6d6;
+}
+.post-meta {
+color: #999;
+}
+.read-more {
+color: #808080;
+}
+
+
+/*************************** Review Page ***************************/
+
+/* Review Panel Left */
+#review-panel-left {
+border-color: #d6d6d6;
+background: #fff;
+-pie-background: #fff;
+}
+
+/* Site Ratings */
+.user-rating .ratingtext {
+color: #999;
+}
+
+/* Multi Rating */
+.gdmultitable td {
+color: #999 !important;
+}
+.gdtblbottom td {
+color: #999 !important;
+}
+#review-panel-left .ratingbutton {
+border-color: #d6d6d6;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #ebebeb);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#ebebeb));
+background-image: -webkit-linear-gradient(#fff, #ebebeb);
+background-image: -o-linear-gradient(#fff, #ebebeb);
+background-image: -ms-linear-gradient(#fff, #ebebeb);
+-pie-background: linear-gradient(#fff, #ebebeb);
+}
+#review-panel-left .ratingbutton.gdactive a {
+color: #808080;
+}
+#review-panel-left .ratingbutton.gdactive:hover {
+background: #d6d6d6;
+}
+#review-panel-left .ratingbutton.gdinactive {
+border-color: #ddd;
+}
+#review-panel-left .ratingbutton.gdinactive a {
+color: #bbb;
+}
+
+/* Review Panel Right */
+#review-panel-right {
+border-color: #d6d6d6;
+background: #fff;
+-pie-background: #fff;
+}
+.review-meta {
+color: #999;
+}
+
+/* Review Links */
+#review-links {
+border-color: #d6d6d6;
+}
+.layout-3 #review-links  {
+border-color: #d6d6d6;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #f8f8f8);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#f8f8f8));
+background-image: -webkit-linear-gradient(#fff, #f8f8f8);
+background-image: -o-linear-gradient(#fff, #f8f8f8);
+background-image: -ms-linear-gradient(#fff, #f8f8f8);
+-pie-background: linear-gradient(#fff, #f8f8f8);
+-webkit-box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+-moz-box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+}
+#review-links li a {
+color: #808080;
+}
+
+/* Tab Images/Videos */
+.review-image {
+border-color: #d6d6d6;
+background: #fff;
+}
+
+
+/*************************** Drop Down Menu Filter ***************************/
+
+.jqTransformSelectWrapper a.jqTransformSelectOpen {
+background-image: url(lib/images/light/toggle_down.png);
+}
+#content .jqTransformSelectWrapper ul {
+background-color: #fff;
+border-color: #d6d6d6;
+-webkit-box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+-moz-box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+}
+.jqTransformSelectWrapper ul a {
+color: #808080;
+}
+.jqTransformSelectWrapper ul a:hover,
+.jqTransformSelectWrapper ul a.selected:hover {
+background: #eee;
+}
+
+
+/*************************** User Profile ***************************/
+
+/* Profile Avatar & Options */
+.profile-avatar {
+border-color: #d6d6d6;
+background: #fff;
+}
+
+/* Profile Recent Posts & Comments */
+.profile-row {
+border-color: #d6d6d6;
+}
+
+
+/*************************** Shortcodes: Captions ***************************/
+
+.wp-caption {
+background: #fff;
+border-color: #d6d6d6;
+}
+
+
+/*************************** Shortcodes: Galleries ***************************/
+
+.gallery-item img {
+border-color: #d6d6d6 !important;
+}
+
+
+/*************************** Footer ***************************/
+
+/* Footer */
+#footer {
+color: #666;
+border-color: #d6d6d6;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #ebebeb);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#ebebeb));
+background-image: -webkit-linear-gradient(#fff, #ebebeb);
+background-image: -o-linear-gradient(#fff, #ebebeb);
+background-image: -ms-linear-gradient(#fff, #ebebeb);
+-pie-background: linear-gradient(#fff, #ebebeb);
+}
+#footer a {
+color: #808080;
+}
+
+/* Footer Widgets */
+#footer-widgets {
+border-color: #d6d6d6;
+}
+#footer-widgets a:hover {
+color: #808080;
+}
+
+/* Top Arrow */
+#top-arrow {
+background-image: url(lib/images/light/top_arrow.png);
+border-color: #d6d6d6;
+}
+
+
+/*************************** Shortcodes: Blockquotes ***************************/
+
+blockquote {
+background-image: url(lib/images/light/bq.png);
+}
+.blockquote-right,
+.blockquote-left {
+background-image: url(lib/images/light/bq.png);
+}
+
+
+/*************************** Shortcodes: Buttons ***************************/
+
+.sc-button {
+color: #808080;
+border-color: #d6d6d6;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #ebebeb);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#ebebeb));
+background-image: -webkit-linear-gradient(#fff, #ebebeb);
+background-image: -o-linear-gradient(#fff, #ebebeb);
+background-image: -ms-linear-gradient(#fff, #ebebeb);
+-pie-background: linear-gradient(#fff, #ebebeb);
+}
+.sc-button:hover {
+background: #fff;
+-pie-background: #fff;
+background-image: none;
+}
+
+
+/*************************** Shortcodes: Contact Form ***************************/
+
+#contact-form .loader {
+background-image: url(lib/images/light/loader.gif);
+}
+
+
+/*************************** Shortcodes: Dividers ***************************/
+
+.sc-divider {
+border-color: #d6d6d6;
+}
+.sc-divider.top a {
+color: #999;
+}
+
+
+/*************************** Shortcodes: Toggle Boxes ***************************/
+
+h3.toggle {
+background-image: url(lib/images/light/toggle_down.png);
+}
+h3.toggle-active {
+background-image: url(lib/images/light/toggle_up.png);
+}
+
+
+/*************************** Widgets ***************************/
+
+/* General Widgets */
+#sidebar .widget {
+border-color: #d6d6d6;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #f8f8f8);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#f8f8f8));
+background-image: -webkit-linear-gradient(#fff, #f8f8f8);
+background-image: -o-linear-gradient(#fff, #f8f8f8);
+background-image: -ms-linear-gradient(#fff, #f8f8f8);
+-pie-background: linear-gradient(#fff, #f8f8f8);
+}
+#sidebar .widget .widgettitle {
+border-color: #d6d6d6;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #ebebeb);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#ebebeb));
+background-image: -webkit-linear-gradient(#fff, #ebebeb);
+background-image: -o-linear-gradient(#fff, #ebebeb);
+background-image: -ms-linear-gradient(#fff, #ebebeb);
+-pie-background: linear-gradient(#fff, #ebebeb);
+}
+.widget a {
+color: #808080;
+}
+
+/* Widget Search Form */
+#content-wrapper .widget #searchsubmit {
+background-image: url(lib/images/light/searchbar.png);
+}
+#content-wrapper .widget #searchsubmit:hover {
+background-image: url(lib/images/light/searchbar.png);
+}
+
+/* Recent Comments Widget */
+.recent-comments-widget .avatar {
+border-color: #d6d6d6;
+background: #fff;
+}
+.recent-comments-widget div span {
+color: #999;
+}
+
+/* Latest Members Widget */
+.latest-members-widget img {
+border-color: #d6d6d6;
+background: #fff;
+}
+
+/* Review Lists Widget */
+.review-lists-widget span a {
+color: #999;
+}
+.review-lists-widget .see-all {
+color: #999;
+}
+
+/* Review & Post Boxes Widget */
+.review-boxes-widget .see-all {
+color: #999;
+}
+.review-box {
+border-color: #d6d6d6;
+background: #fff;
+-pie-background: #fff;
+}
+.review-box-text a {
+color: #808080;
+}
+
+
+/*************************** Comments Page ***************************/
+
+/* User Comments */
+#comments-title {
+background-image: url(lib/images/light/comment_header.png);
+}
+#comments-title span a {
+color: #808080;
+}
+.comment-avatar img {
+border-color: #d6d6d6;
+background: #fff;
+}
+.comment-date {
+color: #808080;
+}
+.comment-arrow {
+background-image: url(lib/images/light/comment_arrow.png);
+}
+.comment-body {
+border-color: #d6d6d6;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #f8f8f8);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#f8f8f8));
+background-image: -webkit-linear-gradient(#fff, #f8f8f8);
+background-image: -o-linear-gradient(#fff, #f8f8f8);
+background-image: -ms-linear-gradient(#fff, #f8f8f8);
+-pie-background: linear-gradient(#fff, #f8f8f8);
+}
+.comment-text .thumblock,
+.comment-text .thumblock div {
+color: #999;
+}
+.comment-text span a {
+color: #999;
+}
+
+/* Comment Form */
+#commentform {
+border-color: #d6d6d6;
+}
+.cancel-comment-reply a {
+color: #999;
+}
+
+
+/*************************** Page Navigation ***************************/
+
+.wp-pagenavi span,
+.wp-pagenavi.cat-navi a,
+.wp-pagenavi.comment-navi a,
+.wp-pagenavi.post-navi a span {
+color: #999;
+border-color: #d6d6d6;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #ebebeb);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#ebebeb));
+background-image: -webkit-linear-gradient(#fff, #ebebeb);
+background-image: -o-linear-gradient(#fff, #ebebeb);
+background-image: -ms-linear-gradient(#fff, #ebebeb);
+-pie-background: linear-gradient(#fff, #ebebeb);
+}
+.wp-pagenavi .current,
+.wp-pagenavi.cat-navi a:hover,
+.wp-pagenavi.comment-navi a:hover,
+.wp-pagenavi .page:hover,
+.wp-pagenavi.post-navi span,
+.wp-pagenavi.post-navi a span:hover {
+color: #808080;
+background: #fff;
+background-image: -moz-linear-gradient(#fff, #f8f8f8);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#f8f8f8));
+background-image: -webkit-linear-gradient(#fff, #f8f8f8);
+background-image: -o-linear-gradient(#fff, #f8f8f8);
+background-image: -ms-linear-gradient(#fff, #f8f8f8);
+-pie-background: linear-gradient(#fff, #f8f8f8);
+}

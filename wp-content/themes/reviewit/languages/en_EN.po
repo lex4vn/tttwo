@@ -1,0 +1,3728 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ReviewIt\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-12 19:48-0000\n"
+"PO-Revision-Date: 2014-09-12 19:48-0000\n"
+"Last-Translator: GhostPool\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.6.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11 ../functions.php:540
+#, fuzzy
+msgid "Page Not Found"
+msgstr "Test"
+
+#: ../404.php:16
+msgid ""
+"Oops, it looks like this page does not exist. If you are lost try using the "
+"search box below."
+msgstr ""
+
+#: ../404.php:22
+msgid "Search The Site"
+msgstr ""
+
+#: ../attachment.php:27 ../blog.php:29
+#: ../lib/admin/inc/widgets/review-post-entries.php:189
+#: ../lib/admin/inc/widgets/review-post-entries.php:191 ../login.php:42
+#: ../loop.php:124 ../loop.php:128 ../loop.php:202 ../loop.php:206
+#: ../page.php:52 ../register-wp.php:42 ../review-tabs-loop.php:125
+#: ../review-tabs-loop.php:132 ../review-tabs-loop.php:206
+#: ../review-tabs-loop.php:210 ../single-review.php:61
+#: ../single-review.php:160 ../single.php:53 ../slider.php:68
+msgid "Read On"
+msgstr ""
+
+#: ../author.php:21
+msgid "'s"
+msgstr ""
+
+#: ../author.php:21 ../author.php:42 ../header.php:39
+msgid "Profile"
+msgstr ""
+
+#: ../author.php:40
+msgid "Dashboard"
+msgstr ""
+
+#: ../author.php:41
+msgid "Write An Article"
+msgstr ""
+
+#: ../author.php:45
+msgid "Member Since"
+msgstr ""
+
+#: ../author.php:46 ../comments.php:171
+msgid "Website"
+msgstr ""
+
+#: ../author.php:47
+msgid "Bio"
+msgstr ""
+
+#: ../author.php:63
+msgid "Recent Posts"
+msgstr ""
+
+#: ../author.php:69
+msgid "Posted on"
+msgstr ""
+
+#: ../author.php:98
+msgid "Recent Comments"
+msgstr ""
+
+#: ../author.php:103
+msgid "Comment on"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Reviewer"
+msgstr ""
+
+#: ../comments.php:54
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../comments.php:54
+msgid "says"
+msgstr ""
+
+#: ../comments.php:78
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../comments.php:85
+msgid "Reply"
+msgstr ""
+
+#: ../comments.php:85
+msgid "Edit"
+msgstr ""
+
+#: ../comments.php:105 ../lib/admin/inc/widgets/review-post-entries.php:182
+#: ../loop.php:190 ../page.php:26 ../review-container.php:161
+#: ../review-tabs-loop.php:194 ../single-review.php:83 ../single.php:27
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:105 ../lib/admin/inc/widgets/review-post-entries.php:182
+#: ../loop.php:190 ../page.php:26 ../review-container.php:161
+#: ../review-tabs-loop.php:194 ../single-review.php:83 ../single.php:27
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:105 ../lib/admin/inc/widgets/review-post-entries.php:182
+#: ../loop.php:190 ../page.php:26 ../review-container.php:161
+#: ../review-tabs-loop.php:194 ../single-review.php:83 ../single.php:27
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:105
+msgid "Leave A Reply"
+msgstr ""
+
+#: ../comments.php:119
+msgid "Comments are now closed."
+msgstr ""
+
+#: ../comments.php:135
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:135
+#, php-format
+msgid "Respond to %s"
+msgstr ""
+
+#: ../comments.php:137
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:141
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: ../comments.php:149
+msgid "Rate This Item"
+msgstr ""
+
+#: ../comments.php:163
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:163 ../header.php:41
+msgid "Logout"
+msgstr ""
+
+#: ../comments.php:167 ../lib/admin/inc/shortcodes/contact-form.php:49
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:169 ../header.php:139
+#: ../lib/admin/inc/shortcodes/contact-form.php:65 ../register-wp.php:65
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:177
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:198
+msgid "You have already reviewed this item."
+msgstr ""
+
+#: ../dropdown-filter.php:62
+msgid "Order By"
+msgstr ""
+
+#: ../dropdown-filter.php:66 ../lib/admin/inc/theme-options.php:287
+#: ../lib/admin/inc/theme-post-types.php:494
+#: ../lib/admin/inc/widgets/post-boxes.php:220
+#: ../lib/admin/inc/widgets/review-boxes.php:295
+#: ../lib/admin/inc/widgets/review-lists.php:201
+#: ../lib/admin/inc/widgets/review-post-entries.php:351
+msgid "Date"
+msgstr ""
+
+#: ../dropdown-filter.php:67 ../lib/admin/inc/theme-meta-options.php:51
+#: ../lib/admin/inc/theme-meta-options.php:118
+#: ../lib/admin/inc/theme-meta-options.php:256
+#: ../lib/admin/inc/theme-options.php:483
+#: ../lib/admin/inc/theme-options.php:709
+#: ../lib/admin/inc/theme-options.php:968
+#: ../lib/admin/inc/theme-options.php:1212
+#: ../lib/admin/inc/theme-options.php:1344
+#: ../lib/admin/inc/theme-options.php:1475
+#: ../lib/admin/inc/theme-post-types.php:490
+#: ../lib/admin/inc/widgets/post-boxes.php:221
+#: ../lib/admin/inc/widgets/review-boxes.php:296
+#: ../lib/admin/inc/widgets/review-lists.php:202
+#: ../lib/admin/inc/widgets/review-post-entries.php:352
+msgid "Title"
+msgstr ""
+
+#: ../dropdown-filter.php:68 ../lib/admin/inc/theme-options.php:753
+#: ../lib/admin/inc/theme-options.php:1012
+#: ../lib/admin/inc/widgets/review-boxes.php:282
+#: ../lib/admin/inc/widgets/review-boxes.php:292
+#: ../lib/admin/inc/widgets/review-lists.php:188
+#: ../lib/admin/inc/widgets/review-lists.php:198
+#: ../lib/admin/inc/widgets/review-post-entries.php:204
+#: ../lib/admin/inc/widgets/review-post-entries.php:338
+#: ../lib/admin/inc/widgets/review-post-entries.php:348
+#: ../lib/admin/inc/widgets/you-may-like.php:214 ../loop.php:232
+#: ../review-container.php:45 ../review-tabs-loop.php:236
+msgid "Site Rating"
+msgstr ""
+
+#: ../dropdown-filter.php:69 ../lib/admin/inc/theme-options.php:753
+#: ../lib/admin/inc/theme-options.php:1012
+#: ../lib/admin/inc/widgets/review-boxes.php:283
+#: ../lib/admin/inc/widgets/review-boxes.php:293
+#: ../lib/admin/inc/widgets/review-lists.php:189
+#: ../lib/admin/inc/widgets/review-lists.php:199
+#: ../lib/admin/inc/widgets/review-post-entries.php:218
+#: ../lib/admin/inc/widgets/review-post-entries.php:339
+#: ../lib/admin/inc/widgets/review-post-entries.php:349
+#: ../lib/admin/inc/widgets/you-may-like.php:215 ../loop.php:251
+#: ../review-container.php:67 ../review-tabs-loop.php:254
+msgid "User Rating"
+msgstr ""
+
+#: ../dropdown-filter.php:73
+msgid "Order"
+msgstr ""
+
+#: ../dropdown-filter.php:77 ../lib/admin/inc/widgets/post-boxes.php:229
+#: ../lib/admin/inc/widgets/review-boxes.php:304
+#: ../lib/admin/inc/widgets/review-lists.php:210
+#: ../lib/admin/inc/widgets/review-post-entries.php:360
+msgid "Descending"
+msgstr ""
+
+#: ../dropdown-filter.php:78 ../lib/admin/inc/widgets/post-boxes.php:230
+#: ../lib/admin/inc/widgets/review-boxes.php:305
+#: ../lib/admin/inc/widgets/review-lists.php:211
+#: ../lib/admin/inc/widgets/review-post-entries.php:361
+msgid "Ascending"
+msgstr ""
+
+#: ../footer.php:68
+msgid "Copyright &copy;"
+msgstr ""
+
+#: ../footer.php:68
+msgid "GhostPool.com"
+msgstr ""
+
+#: ../footer.php:68
+msgid "All rights reserved."
+msgstr ""
+
+#: ../functions.php:208
+msgid "Please enter something in the search box!"
+msgstr ""
+
+#: ../functions.php:295
+msgid "Header Navigation"
+msgstr ""
+
+#: ../functions.php:296
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../functions.php:385
+msgid "Use Image"
+msgstr ""
+
+#: ../functions.php:420 ../functions.php:465
+#: ../lib/admin/inc/theme-meta-options.php:200
+#: ../lib/admin/inc/theme-meta-options.php:205
+#: ../lib/admin/inc/theme-meta-options.php:210
+#: ../lib/admin/inc/theme-meta-options.php:215
+#: ../lib/admin/inc/theme-meta-options.php:220
+#: ../lib/admin/inc/theme-meta-options.php:225
+#: ../lib/admin/inc/theme-meta-options.php:230
+#: ../lib/admin/inc/theme-meta-options.php:235
+#: ../lib/admin/inc/theme-meta-options.php:240
+#: ../lib/admin/inc/theme-meta-options.php:245
+#: ../lib/admin/inc/theme-meta-options.php:284
+#, fuzzy
+msgid "Page"
+msgstr "Test"
+
+#: ../functions.php:420 ../functions.php:465
+msgid "of"
+msgstr ""
+
+#: ../functions.php:507
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:526
+msgid "Search"
+msgstr ""
+
+#: ../functions.php:537
+msgid "'s Profile"
+msgstr ""
+
+#: ../functions.php:558
+msgid "Forums"
+msgstr ""
+
+#: ../header.php:45 ../login.php:19 ../login.php:70
+msgid "Login"
+msgstr ""
+
+#: ../header.php:51 ../login.php:81 ../register-wp.php:70
+msgid "Register"
+msgstr ""
+
+#: ../header.php:141
+msgid "RSS Feed"
+msgstr ""
+
+#: ../header.php:142
+msgid "Twitter"
+msgstr ""
+
+#: ../header.php:143
+msgid "MySpace"
+msgstr ""
+
+#: ../header.php:144
+msgid "Facebook"
+msgstr ""
+
+#: ../header.php:145
+msgid "Digg"
+msgstr ""
+
+#: ../header.php:146
+msgid "Flickr"
+msgstr ""
+
+#: ../header.php:147
+msgid "Delicious"
+msgstr ""
+
+#: ../header.php:148
+msgid "YouTube"
+msgstr ""
+
+#: ../header.php:149
+msgid "Google+"
+msgstr ""
+
+#: ../index.php:10
+msgid ""
+"To display your reviews and/or posts here, go to Appearance -> Widgets and "
+"drag the desired widgets into the \"Homepage (Left)\" widget area. "
+"Alternatively import the demo widget content by going to Tools -> Widget "
+"Import/Export, click the \"Choose File\" button and locate the widgets.wie "
+"file that is inside the reviewit-theme/reviewit/Help/Demo Content folder and "
+"double click the file to select it and then click the \"Import Widgets\" "
+"button."
+msgstr ""
+
+#: ../index.php:14
+msgid "For more info on setting up the theme please read the"
+msgstr ""
+
+#: ../index.php:14
+msgid "help file"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:177
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1945
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:178
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1636
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:534
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1290
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1312
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2059
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2059
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lib/admin/inc/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/admin/inc/shortcodes/contact-form.php:25
+msgid "Thanks"
+msgstr ""
+
+#: ../lib/admin/inc/shortcodes/contact-form.php:25
+msgid "Your message was successfully sent."
+msgstr ""
+
+#: ../lib/admin/inc/shortcodes/contact-form.php:31
+msgid "There was an error submitting this message."
+msgstr ""
+
+#: ../lib/admin/inc/shortcodes/contact-form.php:103
+msgid "Send"
+msgstr ""
+
+#: ../lib/admin/inc/shortcodes/dividers.php:14
+msgid "Top"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:9
+#: ../lib/admin/inc/theme-options.php:1141
+#: ../lib/admin/inc/theme-options.php:1148
+msgid "Post Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:10
+#: ../lib/admin/inc/theme-options.php:1273
+#: ../lib/admin/inc/theme-options.php:1280
+#, fuzzy
+msgid "Page Settings"
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-meta-options.php:11
+msgid "Slide Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:12
+#: ../lib/admin/inc/theme-meta-options.php:166
+#: ../lib/admin/inc/theme-options.php:1389
+#: ../lib/admin/inc/theme-options.php:1396
+msgid "Review Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:23
+#: ../lib/admin/inc/theme-meta-options.php:77
+#: ../lib/admin/inc/theme-meta-options.php:144
+msgid ""
+"Controls the thumbnail used on category, archive, tag and search result "
+"pages."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:23
+#: ../lib/admin/inc/theme-meta-options.php:77
+#: ../lib/admin/inc/theme-meta-options.php:144
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:25
+#: ../lib/admin/inc/theme-meta-options.php:79
+#: ../lib/admin/inc/theme-meta-options.php:146
+#: ../lib/admin/inc/theme-options.php:427
+#: ../lib/admin/inc/theme-options.php:662
+#: ../lib/admin/inc/theme-options.php:921
+msgid "Thumbnail Width"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:25
+#: ../lib/admin/inc/theme-meta-options.php:79
+#: ../lib/admin/inc/theme-meta-options.php:146
+msgid ""
+"The width to crop the thumbnail to (set to 0 to have a proportionate width)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:27
+#: ../lib/admin/inc/theme-meta-options.php:81
+#: ../lib/admin/inc/theme-meta-options.php:148
+#: ../lib/admin/inc/theme-options.php:436
+#: ../lib/admin/inc/theme-options.php:671
+#: ../lib/admin/inc/theme-options.php:930
+msgid "Thumbnail Height"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:27
+#: ../lib/admin/inc/theme-meta-options.php:81
+#: ../lib/admin/inc/theme-meta-options.php:148
+msgid ""
+"The height to crop the thumbnail to (set to 0 to have a proportionate "
+"height)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:32
+#: ../lib/admin/inc/theme-meta-options.php:86
+#: ../lib/admin/inc/theme-meta-options.php:153
+msgid "Controls the featured image displayed within this page."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:32
+#: ../lib/admin/inc/theme-meta-options.php:86
+#: ../lib/admin/inc/theme-meta-options.php:153
+msgid "Image Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:34
+#: ../lib/admin/inc/theme-meta-options.php:88
+#: ../lib/admin/inc/theme-meta-options.php:155
+#: ../lib/admin/inc/theme-options.php:1157
+#: ../lib/admin/inc/theme-options.php:1289
+#: ../lib/admin/inc/theme-options.php:1428
+msgid "Featured Image"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:34
+#: ../lib/admin/inc/theme-meta-options.php:88
+#: ../lib/admin/inc/theme-meta-options.php:155
+msgid "Choose whether to display the featured image within your page."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:34
+#: ../lib/admin/inc/theme-meta-options.php:40
+#: ../lib/admin/inc/theme-meta-options.php:49
+#: ../lib/admin/inc/theme-meta-options.php:51
+#: ../lib/admin/inc/theme-meta-options.php:53
+#: ../lib/admin/inc/theme-meta-options.php:59
+#: ../lib/admin/inc/theme-meta-options.php:88
+#: ../lib/admin/inc/theme-meta-options.php:94
+#: ../lib/admin/inc/theme-meta-options.php:105
+#: ../lib/admin/inc/theme-meta-options.php:107
+#: ../lib/admin/inc/theme-meta-options.php:116
+#: ../lib/admin/inc/theme-meta-options.php:118
+#: ../lib/admin/inc/theme-meta-options.php:120
+#: ../lib/admin/inc/theme-meta-options.php:126
+#: ../lib/admin/inc/theme-meta-options.php:155
+#: ../lib/admin/inc/theme-meta-options.php:170
+#: ../lib/admin/inc/theme-meta-options.php:172
+#: ../lib/admin/inc/theme-meta-options.php:176
+#: ../lib/admin/inc/theme-meta-options.php:180
+#: ../lib/admin/inc/theme-meta-options.php:182
+#: ../lib/admin/inc/theme-meta-options.php:254
+#: ../lib/admin/inc/theme-meta-options.php:256
+#: ../lib/admin/inc/theme-meta-options.php:258
+#: ../lib/admin/inc/theme-meta-options.php:461
+msgid "Default"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:34
+#: ../lib/admin/inc/theme-meta-options.php:51
+#: ../lib/admin/inc/theme-meta-options.php:88
+#: ../lib/admin/inc/theme-meta-options.php:118
+#: ../lib/admin/inc/theme-meta-options.php:155
+#: ../lib/admin/inc/theme-meta-options.php:256
+#: ../lib/admin/inc/theme-options.php:487
+#: ../lib/admin/inc/theme-options.php:713
+#: ../lib/admin/inc/theme-options.php:972
+#: ../lib/admin/inc/theme-options.php:1161
+#: ../lib/admin/inc/theme-options.php:1216
+#: ../lib/admin/inc/theme-options.php:1293
+#: ../lib/admin/inc/theme-options.php:1348
+#: ../lib/admin/inc/theme-options.php:1432
+#: ../lib/admin/inc/theme-options.php:1479
+#: ../lib/admin/inc/widgets/review-post-entries.php:312
+msgid "Show"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:34
+#: ../lib/admin/inc/theme-meta-options.php:51
+#: ../lib/admin/inc/theme-meta-options.php:88
+#: ../lib/admin/inc/theme-meta-options.php:118
+#: ../lib/admin/inc/theme-meta-options.php:155
+#: ../lib/admin/inc/theme-meta-options.php:256
+#: ../lib/admin/inc/theme-options.php:487
+#: ../lib/admin/inc/theme-options.php:713
+#: ../lib/admin/inc/theme-options.php:972
+#: ../lib/admin/inc/theme-options.php:1161
+#: ../lib/admin/inc/theme-options.php:1216
+#: ../lib/admin/inc/theme-options.php:1293
+#: ../lib/admin/inc/theme-options.php:1348
+#: ../lib/admin/inc/theme-options.php:1432
+#: ../lib/admin/inc/theme-options.php:1479
+#: ../lib/admin/inc/widgets/review-post-entries.php:313
+msgid "Hide"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:36
+#: ../lib/admin/inc/theme-meta-options.php:90
+#: ../lib/admin/inc/theme-meta-options.php:157
+#: ../lib/admin/inc/theme-options.php:1165
+#: ../lib/admin/inc/theme-options.php:1297
+#: ../lib/admin/inc/theme-options.php:1436
+msgid "Image Width"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:36
+#: ../lib/admin/inc/theme-meta-options.php:90
+#: ../lib/admin/inc/theme-meta-options.php:157
+msgid ""
+"The width to crop the image to (set to 0 to have a proportionate width)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:38
+#: ../lib/admin/inc/theme-meta-options.php:92
+#: ../lib/admin/inc/theme-meta-options.php:159
+#: ../lib/admin/inc/theme-options.php:1174
+#: ../lib/admin/inc/theme-options.php:1306
+#: ../lib/admin/inc/theme-options.php:1445
+msgid "Image Height"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:38
+#: ../lib/admin/inc/theme-meta-options.php:92
+#: ../lib/admin/inc/theme-meta-options.php:159
+msgid ""
+"The height to crop the image to (set to 0 to have a proportionate height)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:40
+#: ../lib/admin/inc/theme-meta-options.php:94
+#: ../lib/admin/inc/theme-options.php:445
+#: ../lib/admin/inc/theme-options.php:680
+#: ../lib/admin/inc/theme-options.php:939
+#: ../lib/admin/inc/theme-options.php:1183
+#: ../lib/admin/inc/theme-options.php:1315
+msgid "Image Wrap"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:40
+#: ../lib/admin/inc/theme-meta-options.php:94
+#: ../lib/admin/inc/theme-options.php:446
+#: ../lib/admin/inc/theme-options.php:681
+#: ../lib/admin/inc/theme-options.php:940
+#: ../lib/admin/inc/theme-options.php:1184
+msgid "Choose whether the page content wraps around the featured image."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:40
+#: ../lib/admin/inc/theme-meta-options.php:94
+#: ../lib/admin/inc/theme-options.php:80
+#: ../lib/admin/inc/theme-options.php:104
+#: ../lib/admin/inc/theme-options.php:124
+#: ../lib/admin/inc/theme-options.php:245
+#: ../lib/admin/inc/theme-options.php:253
+#: ../lib/admin/inc/theme-options.php:340
+#: ../lib/admin/inc/theme-options.php:406
+#: ../lib/admin/inc/theme-options.php:449
+#: ../lib/admin/inc/theme-options.php:497
+#: ../lib/admin/inc/theme-options.php:557
+#: ../lib/admin/inc/theme-options.php:567
+#: ../lib/admin/inc/theme-options.php:575
+#: ../lib/admin/inc/theme-options.php:583
+#: ../lib/admin/inc/theme-options.php:591
+#: ../lib/admin/inc/theme-options.php:599
+#: ../lib/admin/inc/theme-options.php:609
+#: ../lib/admin/inc/theme-options.php:617
+#: ../lib/admin/inc/theme-options.php:625
+#: ../lib/admin/inc/theme-options.php:633
+#: ../lib/admin/inc/theme-options.php:641
+#: ../lib/admin/inc/theme-options.php:684
+#: ../lib/admin/inc/theme-options.php:723
+#: ../lib/admin/inc/theme-options.php:793
+#: ../lib/admin/inc/theme-options.php:803
+#: ../lib/admin/inc/theme-options.php:811
+#: ../lib/admin/inc/theme-options.php:819
+#: ../lib/admin/inc/theme-options.php:827
+#: ../lib/admin/inc/theme-options.php:835
+#: ../lib/admin/inc/theme-options.php:845
+#: ../lib/admin/inc/theme-options.php:853
+#: ../lib/admin/inc/theme-options.php:861
+#: ../lib/admin/inc/theme-options.php:869
+#: ../lib/admin/inc/theme-options.php:877
+#: ../lib/admin/inc/theme-options.php:943
+#: ../lib/admin/inc/theme-options.php:982
+#: ../lib/admin/inc/theme-options.php:1052
+#: ../lib/admin/inc/theme-options.php:1062
+#: ../lib/admin/inc/theme-options.php:1070
+#: ../lib/admin/inc/theme-options.php:1078
+#: ../lib/admin/inc/theme-options.php:1086
+#: ../lib/admin/inc/theme-options.php:1094
+#: ../lib/admin/inc/theme-options.php:1104
+#: ../lib/admin/inc/theme-options.php:1112
+#: ../lib/admin/inc/theme-options.php:1120
+#: ../lib/admin/inc/theme-options.php:1128
+#: ../lib/admin/inc/theme-options.php:1136
+#: ../lib/admin/inc/theme-options.php:1187
+#: ../lib/admin/inc/theme-options.php:1236
+#: ../lib/admin/inc/theme-options.php:1244
+#: ../lib/admin/inc/theme-options.php:1252
+#: ../lib/admin/inc/theme-options.php:1260
+#: ../lib/admin/inc/theme-options.php:1268
+#: ../lib/admin/inc/theme-options.php:1319
+#: ../lib/admin/inc/theme-options.php:1368
+#: ../lib/admin/inc/theme-options.php:1376
+#: ../lib/admin/inc/theme-options.php:1384
+#: ../lib/admin/inc/theme-options.php:1558
+#: ../lib/admin/inc/theme-options.php:1568
+#: ../lib/admin/inc/theme-options.php:1578
+#: ../lib/admin/inc/theme-options.php:1586
+#: ../lib/admin/inc/theme-options.php:1594
+#: ../lib/admin/inc/theme-options.php:1602
+#: ../lib/admin/inc/theme-options.php:1610
+#: ../lib/admin/inc/theme-options.php:1619
+#: ../lib/admin/inc/theme-options.php:1649
+#: ../lib/admin/inc/theme-options.php:1679
+#: ../lib/admin/inc/theme-options.php:1709
+#: ../lib/admin/inc/theme-options.php:1739
+#: ../lib/admin/inc/theme-options.php:1769
+#: ../lib/admin/inc/theme-options.php:1799
+#: ../lib/admin/inc/theme-options.php:1829
+#: ../lib/admin/inc/theme-options.php:1859
+#: ../lib/admin/inc/theme-options.php:1889
+#: ../lib/admin/inc/theme-options.php:1919
+#: ../lib/admin/inc/theme-options.php:1949
+#: ../lib/admin/inc/theme-options.php:1979
+#: ../lib/admin/inc/theme-options.php:2009
+#: ../lib/admin/inc/theme-options.php:2039
+#: ../lib/admin/inc/theme-options.php:2067
+#: ../lib/admin/inc/theme-options.php:2097
+#: ../lib/admin/inc/theme-options.php:2127
+#: ../lib/admin/inc/theme-options.php:2157
+#: ../lib/admin/inc/theme-options.php:2187
+#: ../lib/admin/inc/widgets/post-boxes.php:248
+#: ../lib/admin/inc/widgets/review-boxes.php:329
+#: ../lib/admin/inc/widgets/review-post-entries.php:330
+#: ../lib/admin/inc/widgets/review-post-entries.php:387
+msgid "Enable"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:40
+#: ../lib/admin/inc/theme-meta-options.php:94
+#: ../lib/admin/inc/theme-options.php:80
+#: ../lib/admin/inc/theme-options.php:104
+#: ../lib/admin/inc/theme-options.php:124
+#: ../lib/admin/inc/theme-options.php:245
+#: ../lib/admin/inc/theme-options.php:253
+#: ../lib/admin/inc/theme-options.php:297
+#: ../lib/admin/inc/theme-options.php:340
+#: ../lib/admin/inc/theme-options.php:406
+#: ../lib/admin/inc/theme-options.php:449
+#: ../lib/admin/inc/theme-options.php:497
+#: ../lib/admin/inc/theme-options.php:557
+#: ../lib/admin/inc/theme-options.php:567
+#: ../lib/admin/inc/theme-options.php:575
+#: ../lib/admin/inc/theme-options.php:583
+#: ../lib/admin/inc/theme-options.php:591
+#: ../lib/admin/inc/theme-options.php:599
+#: ../lib/admin/inc/theme-options.php:609
+#: ../lib/admin/inc/theme-options.php:617
+#: ../lib/admin/inc/theme-options.php:625
+#: ../lib/admin/inc/theme-options.php:633
+#: ../lib/admin/inc/theme-options.php:641
+#: ../lib/admin/inc/theme-options.php:684
+#: ../lib/admin/inc/theme-options.php:723
+#: ../lib/admin/inc/theme-options.php:793
+#: ../lib/admin/inc/theme-options.php:803
+#: ../lib/admin/inc/theme-options.php:811
+#: ../lib/admin/inc/theme-options.php:819
+#: ../lib/admin/inc/theme-options.php:827
+#: ../lib/admin/inc/theme-options.php:835
+#: ../lib/admin/inc/theme-options.php:845
+#: ../lib/admin/inc/theme-options.php:853
+#: ../lib/admin/inc/theme-options.php:861
+#: ../lib/admin/inc/theme-options.php:869
+#: ../lib/admin/inc/theme-options.php:877
+#: ../lib/admin/inc/theme-options.php:943
+#: ../lib/admin/inc/theme-options.php:982
+#: ../lib/admin/inc/theme-options.php:1052
+#: ../lib/admin/inc/theme-options.php:1062
+#: ../lib/admin/inc/theme-options.php:1070
+#: ../lib/admin/inc/theme-options.php:1078
+#: ../lib/admin/inc/theme-options.php:1086
+#: ../lib/admin/inc/theme-options.php:1094
+#: ../lib/admin/inc/theme-options.php:1104
+#: ../lib/admin/inc/theme-options.php:1112
+#: ../lib/admin/inc/theme-options.php:1120
+#: ../lib/admin/inc/theme-options.php:1128
+#: ../lib/admin/inc/theme-options.php:1136
+#: ../lib/admin/inc/theme-options.php:1187
+#: ../lib/admin/inc/theme-options.php:1236
+#: ../lib/admin/inc/theme-options.php:1244
+#: ../lib/admin/inc/theme-options.php:1252
+#: ../lib/admin/inc/theme-options.php:1260
+#: ../lib/admin/inc/theme-options.php:1268
+#: ../lib/admin/inc/theme-options.php:1319
+#: ../lib/admin/inc/theme-options.php:1368
+#: ../lib/admin/inc/theme-options.php:1376
+#: ../lib/admin/inc/theme-options.php:1384
+#: ../lib/admin/inc/theme-options.php:1558
+#: ../lib/admin/inc/theme-options.php:1568
+#: ../lib/admin/inc/theme-options.php:1578
+#: ../lib/admin/inc/theme-options.php:1586
+#: ../lib/admin/inc/theme-options.php:1594
+#: ../lib/admin/inc/theme-options.php:1602
+#: ../lib/admin/inc/theme-options.php:1610
+#: ../lib/admin/inc/theme-options.php:1619
+#: ../lib/admin/inc/theme-options.php:1649
+#: ../lib/admin/inc/theme-options.php:1679
+#: ../lib/admin/inc/theme-options.php:1709
+#: ../lib/admin/inc/theme-options.php:1739
+#: ../lib/admin/inc/theme-options.php:1769
+#: ../lib/admin/inc/theme-options.php:1799
+#: ../lib/admin/inc/theme-options.php:1829
+#: ../lib/admin/inc/theme-options.php:1859
+#: ../lib/admin/inc/theme-options.php:1889
+#: ../lib/admin/inc/theme-options.php:1919
+#: ../lib/admin/inc/theme-options.php:1949
+#: ../lib/admin/inc/theme-options.php:1979
+#: ../lib/admin/inc/theme-options.php:2009
+#: ../lib/admin/inc/theme-options.php:2039
+#: ../lib/admin/inc/theme-options.php:2067
+#: ../lib/admin/inc/theme-options.php:2097
+#: ../lib/admin/inc/theme-options.php:2127
+#: ../lib/admin/inc/theme-options.php:2157
+#: ../lib/admin/inc/theme-options.php:2187
+#: ../lib/admin/inc/widgets/post-boxes.php:247
+#: ../lib/admin/inc/widgets/review-boxes.php:328
+#: ../lib/admin/inc/widgets/review-post-entries.php:331
+#: ../lib/admin/inc/widgets/review-post-entries.php:388
+msgid "Disable"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:45
+#: ../lib/admin/inc/theme-meta-options.php:112
+#: ../lib/admin/inc/theme-meta-options.php:250
+msgid "General formatting settings."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:45
+#: ../lib/admin/inc/theme-meta-options.php:112
+#: ../lib/admin/inc/theme-meta-options.php:250
+#: ../lib/admin/inc/theme-meta-options.php:280
+msgid "Format Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:47
+#: ../lib/admin/inc/theme-meta-options.php:114
+#: ../lib/admin/inc/theme-meta-options.php:252
+#: ../lib/admin/inc/theme-options.php:383
+#: ../lib/admin/inc/theme-options.php:464
+#: ../lib/admin/inc/theme-options.php:690
+#: ../lib/admin/inc/theme-options.php:949
+#: ../lib/admin/inc/theme-options.php:1193
+#: ../lib/admin/inc/theme-options.php:1325
+#: ../lib/admin/inc/theme-options.php:1456
+msgid "Sidebar"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:47
+#: ../lib/admin/inc/theme-meta-options.php:114
+#: ../lib/admin/inc/theme-meta-options.php:252
+msgid "Choose which sidebar to display on this page."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:49
+#: ../lib/admin/inc/theme-meta-options.php:116
+#: ../lib/admin/inc/theme-meta-options.php:254
+#: ../lib/admin/inc/theme-options.php:392
+#: ../lib/admin/inc/theme-options.php:473
+#: ../lib/admin/inc/theme-options.php:699
+#: ../lib/admin/inc/theme-options.php:958
+#: ../lib/admin/inc/theme-options.php:1202
+#: ../lib/admin/inc/theme-options.php:1334
+#: ../lib/admin/inc/theme-options.php:1465
+msgid "Layout"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:49
+#: ../lib/admin/inc/theme-meta-options.php:116
+#: ../lib/admin/inc/theme-meta-options.php:254
+#: ../lib/admin/inc/theme-options.php:393
+#: ../lib/admin/inc/theme-options.php:474
+#: ../lib/admin/inc/theme-options.php:700
+#: ../lib/admin/inc/theme-options.php:959
+#, fuzzy
+msgid "Choose the page layout."
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-meta-options.php:49
+#: ../lib/admin/inc/theme-meta-options.php:116
+#: ../lib/admin/inc/theme-meta-options.php:254
+#: ../lib/admin/inc/theme-options.php:396
+#: ../lib/admin/inc/theme-options.php:477
+#: ../lib/admin/inc/theme-options.php:703
+#: ../lib/admin/inc/theme-options.php:962
+#: ../lib/admin/inc/theme-options.php:1206
+#: ../lib/admin/inc/theme-options.php:1338
+#: ../lib/admin/inc/theme-options.php:1469
+msgid "Sidebar Left"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:49
+#: ../lib/admin/inc/theme-meta-options.php:116
+#: ../lib/admin/inc/theme-meta-options.php:254
+#: ../lib/admin/inc/theme-options.php:396
+#: ../lib/admin/inc/theme-options.php:477
+#: ../lib/admin/inc/theme-options.php:703
+#: ../lib/admin/inc/theme-options.php:962
+#: ../lib/admin/inc/theme-options.php:1206
+#: ../lib/admin/inc/theme-options.php:1338
+#: ../lib/admin/inc/theme-options.php:1469
+msgid "Sidebar Right"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:49
+#: ../lib/admin/inc/theme-meta-options.php:116
+#: ../lib/admin/inc/theme-meta-options.php:254
+#: ../lib/admin/inc/theme-options.php:396
+#: ../lib/admin/inc/theme-options.php:477
+#: ../lib/admin/inc/theme-options.php:703
+#: ../lib/admin/inc/theme-options.php:962
+#: ../lib/admin/inc/theme-options.php:1206
+#: ../lib/admin/inc/theme-options.php:1338
+#: ../lib/admin/inc/theme-options.php:1469
+msgid "Fullwidth"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:51
+#: ../lib/admin/inc/theme-meta-options.php:118
+#: ../lib/admin/inc/theme-meta-options.php:256
+#: ../lib/admin/inc/theme-options.php:484
+#: ../lib/admin/inc/theme-options.php:710
+#: ../lib/admin/inc/theme-options.php:969
+#: ../lib/admin/inc/theme-options.php:1476
+msgid "Choose whether to display the page title."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:53
+#: ../lib/admin/inc/theme-meta-options.php:120
+#: ../lib/admin/inc/theme-meta-options.php:258
+#, fuzzy
+msgid "Page Skin"
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-meta-options.php:53
+#: ../lib/admin/inc/theme-meta-options.php:120
+#: ../lib/admin/inc/theme-meta-options.php:258
+#, fuzzy
+msgid "Choose the page skin."
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-meta-options.php:53
+#: ../lib/admin/inc/theme-meta-options.php:120
+#: ../lib/admin/inc/theme-meta-options.php:258
+#: ../lib/admin/inc/theme-options.php:27
+msgid "Dark"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:53
+#: ../lib/admin/inc/theme-meta-options.php:120
+#: ../lib/admin/inc/theme-meta-options.php:258
+#: ../lib/admin/inc/theme-options.php:27
+msgid "Light"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:57
+#: ../lib/admin/inc/theme-meta-options.php:124
+#: ../lib/admin/inc/theme-meta-options.php:262
+msgid "Custom Stylesheet URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:57
+#: ../lib/admin/inc/theme-meta-options.php:124
+#: ../lib/admin/inc/theme-meta-options.php:262
+msgid ""
+"Enter the relative URL to your custom stylesheet e.g. <code>lib/css/custom-"
+"style.css</code>."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:59
+#: ../lib/admin/inc/theme-meta-options.php:126
+#: ../lib/admin/inc/theme-meta-options.php:182
+#: ../lib/admin/inc/theme-options.php:1222
+#: ../lib/admin/inc/theme-options.php:1354
+#: ../lib/admin/inc/theme-options.php:1528
+msgid "Comment Thumbs"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:59
+#: ../lib/admin/inc/theme-meta-options.php:126
+#: ../lib/admin/inc/theme-meta-options.php:182
+msgid "Choose whether users can rate other comments on this review."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:59
+#: ../lib/admin/inc/theme-meta-options.php:126
+#: ../lib/admin/inc/theme-meta-options.php:182
+#: ../lib/admin/inc/theme-options.php:1226
+#: ../lib/admin/inc/theme-options.php:1358
+#: ../lib/admin/inc/theme-options.php:1532
+msgid "Users can rate other comments"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:59
+#: ../lib/admin/inc/theme-meta-options.php:126
+#: ../lib/admin/inc/theme-meta-options.php:182
+#: ../lib/admin/inc/theme-options.php:1226
+#: ../lib/admin/inc/theme-options.php:1358
+#: ../lib/admin/inc/theme-options.php:1532
+msgid "Users cannot rate other comments"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:99
+msgid "Settings when using the Blog page template."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:99
+#: ../lib/admin/inc/theme-options.php:418
+msgid "Blog Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:101
+msgid "Category IDs"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:103
+#: ../lib/admin/inc/theme-options.php:503
+#: ../lib/admin/inc/theme-options.php:729
+#: ../lib/admin/inc/theme-options.php:988
+#, fuzzy
+msgid "Posts Per Page"
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-meta-options.php:105
+#: ../lib/admin/inc/theme-options.php:513
+#: ../lib/admin/inc/theme-options.php:739
+#: ../lib/admin/inc/theme-options.php:998
+msgid "Post Display"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:105
+#: ../lib/admin/inc/theme-options.php:517
+#: ../lib/admin/inc/theme-options.php:743
+#: ../lib/admin/inc/theme-options.php:1002
+msgid "List"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:105
+#: ../lib/admin/inc/theme-options.php:517
+#: ../lib/admin/inc/theme-options.php:743
+#: ../lib/admin/inc/theme-options.php:1002
+msgid "Compact Boxes"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:105
+#: ../lib/admin/inc/theme-options.php:517
+#: ../lib/admin/inc/theme-options.php:743
+#: ../lib/admin/inc/theme-options.php:1002
+msgid "Extended Boxes"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:107
+#: ../lib/admin/inc/theme-options.php:523
+#: ../lib/admin/inc/theme-options.php:759
+#: ../lib/admin/inc/theme-options.php:1018
+msgid "Content Display"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:107
+#: ../lib/admin/inc/theme-options.php:527
+#: ../lib/admin/inc/theme-options.php:763
+#: ../lib/admin/inc/theme-options.php:1022
+#: ../lib/admin/inc/widgets/review-post-entries.php:374
+msgid "Excerpt"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:107
+#: ../lib/admin/inc/theme-options.php:527
+#: ../lib/admin/inc/theme-options.php:763
+#: ../lib/admin/inc/theme-options.php:1022
+#: ../lib/admin/inc/widgets/review-post-entries.php:375
+msgid "Full Content"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:161
+msgid "Lightbox Content"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:161
+msgid "Upload images/audio/videos that will be opened in the lightbox."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:166
+msgid "Controls the review settings for this page."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:168
+msgid "Search Tags"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:170
+#: ../lib/admin/inc/theme-options.php:1494
+msgid "Review Tabs and Sidebar Position"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:170
+msgid "Choose the position of the review tabs and sidebar on review pages."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:170
+msgid "Sidebar Next To Review Tags / Tabs Below Review Tags"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:170
+msgid "Tabs & Sidebar Below Review Tags"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:170
+msgid "Sidebar Below Review Tags / Tabs Next To Review Tags"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:172
+#: ../lib/admin/inc/theme-options.php:1502
+msgid "Review Text Position"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:172
+msgid "Choose the position of the review text on reviews ."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:172
+#: ../lib/admin/inc/theme-options.php:1506
+msgid "Within Review Tabs"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:172
+#: ../lib/admin/inc/theme-options.php:1506
+msgid "Below Review Tags"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:174
+#: ../lib/admin/inc/theme-options.php:1485
+msgid "Left Review Panel Width"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:174
+msgid "The width of the review panel containing the review image and ratings."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:176
+#: ../lib/admin/inc/theme-options.php:1512
+msgid "User Voting"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:176
+msgid "Choose how users can vote on this review."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:176
+#: ../lib/admin/inc/theme-options.php:1516
+msgid "Vote with or without posting a comment"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:176
+#: ../lib/admin/inc/theme-options.php:1516
+msgid "Vote without posting a comment"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:176
+#: ../lib/admin/inc/theme-options.php:1516
+msgid "Vote only when posting a comment"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:176
+#: ../lib/admin/inc/theme-options.php:1516
+msgid "Users cannot vote"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:180
+#: ../lib/admin/inc/theme-options.php:1520
+msgid "User Comments"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:180
+msgid ""
+"Choose whether users can post unlimited comments on this review (only works "
+"with registered users)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:180
+#: ../lib/admin/inc/theme-options.php:1524
+msgid "Unlimited Comments"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:180
+#: ../lib/admin/inc/theme-options.php:1524
+msgid "One Comment"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:184
+#: ../lib/admin/inc/theme-options.php:1536
+msgid "Site Rating Multi Set ID"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:184
+#: ../lib/admin/inc/theme-options.php:1537
+msgid ""
+"Enter the ID of your site rating multi set template that was created <a href="
+"\""
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:186
+#: ../lib/admin/inc/theme-options.php:1544
+msgid "User Rating Multi Set ID"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:186
+#: ../lib/admin/inc/theme-options.php:1545
+msgid ""
+"Enter the ID of your user rating multi set template that was created <a href="
+"\""
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:190
+msgid "Link Title"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:191
+msgid "Tag/Page Slug or Page URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:191
+msgid "Tab Type"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:195
+msgid "Review"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:200
+#: ../lib/admin/inc/theme-meta-options.php:205
+#: ../lib/admin/inc/theme-meta-options.php:210
+#: ../lib/admin/inc/theme-meta-options.php:215
+#: ../lib/admin/inc/theme-meta-options.php:220
+#: ../lib/admin/inc/theme-meta-options.php:225
+#: ../lib/admin/inc/theme-meta-options.php:230
+#: ../lib/admin/inc/theme-meta-options.php:235
+#: ../lib/admin/inc/theme-meta-options.php:240
+#: ../lib/admin/inc/theme-meta-options.php:245
+msgid "List Of Articles"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:200
+#: ../lib/admin/inc/theme-meta-options.php:205
+#: ../lib/admin/inc/theme-meta-options.php:210
+#: ../lib/admin/inc/theme-meta-options.php:215
+#: ../lib/admin/inc/theme-meta-options.php:220
+#: ../lib/admin/inc/theme-meta-options.php:225
+#: ../lib/admin/inc/theme-meta-options.php:230
+#: ../lib/admin/inc/theme-meta-options.php:235
+#: ../lib/admin/inc/theme-meta-options.php:240
+#: ../lib/admin/inc/theme-meta-options.php:245
+msgid "Media"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:280
+msgid "General product slide settings."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:282
+msgid "Slide URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:282
+msgid "Enter the URL you want your slide to link to."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:284
+msgid "Link Type"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:284
+msgid "Choose how your slide links to the URL you provided to the left."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:284
+msgid "Lightbox Image"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:284
+msgid "Lightbox Video"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:284
+#: ../lib/admin/inc/theme-meta-options.php:305
+#: ../lib/admin/inc/theme-options.php:2514
+msgid "None"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:286
+msgid "Read On Button"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:286
+msgid "Check this option to display a \"Read On\" button on this slide."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:291
+msgid "The settings for a video used in this slide."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:291
+msgid "Video Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:293
+msgid "Video URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:293
+msgid "The URL of your video file (YouTube/Vimeo/FLV/MP4/M4V/MP3)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:295
+msgid "HTML5 Video URL (Safari/Chrome)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:295
+msgid "Enter your HTML5 video URL for Safari/Chrome (WEBM/MP4)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:297
+msgid "HTML5 Video URL (FireFox/Opera)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:297
+msgid "Enter your HTML5 video URL for FireFox/Opera (OGG/OGV)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:299
+msgid "Autostart Video"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:299
+msgid ""
+"Plays the video automatically when the slide comes into view (works in the "
+"first slide only)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:303
+msgid "Video Priority"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:303
+msgid ""
+"If you have provided both flash and HTML5 videos, select which one will take "
+"priority if the browser can play both."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:303
+msgid "Flash"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:303
+msgid "HTML5"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:305
+msgid "Video Controls"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:305
+msgid ""
+"Choose how to display the video controls (does not apply to YouTube and "
+"Vimeo videos)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:305
+msgid "Bottom"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:305
+msgid "Over"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:430
+#: ../lib/admin/inc/theme-options.php:2381
+#: ../lib/admin/inc/theme-options.php:2468
+msgid "Upload"
+msgstr ""
+
+#: ../lib/admin/inc/theme-meta-options.php:541
+msgid "Add Media"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:7 ../lib/admin/inc/theme-options.php:14
+msgid "General Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:17
+msgid "This section controls the general settings for the theme."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:23
+msgid "Theme Skin"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:24
+msgid "Choose the theme skin (can be overridden on individual posts/pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:31
+msgid "Custom Stylesheet"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:32
+msgid ""
+"Enter the relative URL to your custom stylesheet e.g. <code>lib/css/custom-"
+"style.css</code> (can be overridden on individual posts/pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:40
+msgid "Custom Logo Image"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:41
+msgid "Upload your own logo."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:47
+msgid "Logo Top Margin"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:48
+msgid "Enter the top margin of your logo."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:56
+msgid "Logo Left Margin"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:57
+msgid "Enter the left margin of your logo."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:65
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:66
+msgid "Enter the bottom margin of your logo."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:76
+msgid "Login/Register/Profile Links"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:77
+msgid "Choose whether to display the login, register and profile links."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:84
+#, fuzzy
+msgid "Login Page URL"
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-options.php:85
+msgid "Enter the URL of the page you have assigned the Login page template to."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:91
+#, fuzzy
+msgid "Register Page URL"
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-options.php:92
+msgid ""
+"Enter the URL of the page you have assigned the Register page template to "
+"(leave blank if you are using BuddyPress, as a register page will have "
+"already been created)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:100
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:101
+msgid "Choose whether to display the breadcrumbs on your pages."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:110
+msgid "Search Criteria"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:111
+msgid "Choose what posts and pages show up in search results."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:114
+msgid "All Posts And Pages"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:114
+msgid "All Posts"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:114
+msgid "Reviews Only"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:120
+msgid "RSS Feed Button"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:121
+msgid ""
+"Display the RSS feed button with the default RSS feed or enter a custom feed "
+"below."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:128
+msgid "RSS URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:134
+msgid "Email Address"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:140
+msgid "Twitter URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:146
+msgid "Myspace URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:152
+msgid "Facebook URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:158
+msgid "Digg URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:164
+msgid "Flickr URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:170
+msgid "Delicious URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:176
+msgid "YouTube URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:182
+msgid "Google+ URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:188
+msgid "Additional Social Icons"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:189
+msgid ""
+"Add additional social icons by entering the link and image HTML code e.g. "
+"<code>&lt;a href=&quot;http://social-link.com&quot; target=&quot;_blank&quot;"
+"&gt;&lt;img src=&quot;"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:197
+msgid "Favicon URL (.ico)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:198
+msgid "Type the URL of your favicon image (.ico, 16x16 or 32x32)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:205
+msgid "Favicon URL (.png)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:206
+msgid "Type the URL of your favicon image (.png, 16x16 or 32x32)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:213
+msgid "Apple Icon URL (.png)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:214
+msgid ""
+"Type the URL of your apple icon image (.png, 57x57), used for display on the "
+"Apple iPhone"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:223
+msgid "Footer Content"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:224
+msgid "Enter the content you want to display in your footer"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:232
+msgid "Scripts"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:233
+msgid ""
+"Enter any scripts that need to be embedded into your theme (e.g. Google "
+"Analytics)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:241
+msgid "JW Player For YouTube Videos"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:242
+msgid "Use the JW Player for YouTube vidoes (not recommended!)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:249
+msgid "Old Video Shortcode"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:250
+msgid ""
+"WordPress now has it's own native [video] shortcode. Choose this option to "
+"use the old video shortcode instead."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:258
+#: ../lib/admin/inc/theme-options.php:265
+msgid "Slider Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:268
+msgid "This section controls the slider settings for the theme."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:274
+msgid "Slider Category IDs"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:275
+#: ../lib/admin/inc/theme-options.php:456
+msgid "Enter the IDs of the <a href=\""
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:283
+msgid "Slider Order"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:284
+msgid "Choose how to order your slides."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:287
+msgid "Custom Order"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:293
+msgid "Slider Display"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:294
+msgid "Choose where to display the slider."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:297
+msgid "Homepage"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:297
+msgid "All Pages"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:301
+msgid "Include On Specific Posts"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:302
+msgid ""
+"Enter the IDs of the posts you want the slider to appear on, separating each "
+"with a comma (e.g. 23,51,102,65)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:307
+msgid "Include On Specific Pages"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:308
+msgid ""
+"Enter the IDs of the pages you want the slider to appear on, separating each "
+"with a comma (e.g. 23,51,102,65)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:315
+msgid "Slide Image Width"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:316
+msgid "The width to crop the main slide image to."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:326
+msgid "Number Of Slides"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:327
+msgid ""
+"Enter the number of slides you want to display (also controls the height of "
+"the main slider images)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:336
+msgid "Slider Auto Rotation"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:346
+msgid "Slide Lengths"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:347
+msgid "The number of seconds each slide will show for."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:357
+msgid "Slide Transtion Speed"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:358
+msgid "The speed of the transition between slides."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:367
+#: ../lib/admin/inc/theme-options.php:374
+msgid "Homepage Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:377
+msgid "This section controls the homepage settings for the theme."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:384
+msgid "Choose which sidebar area to display on the right."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:402
+#: ../lib/admin/inc/theme-options.php:493
+#: ../lib/admin/inc/theme-options.php:719
+#: ../lib/admin/inc/theme-options.php:978
+msgid "Compact/Extended Buttons"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:403
+#: ../lib/admin/inc/theme-options.php:494
+#: ../lib/admin/inc/theme-options.php:720
+#: ../lib/admin/inc/theme-options.php:979
+msgid "Choose whether to display the compact and extended buttons."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:411
+#, fuzzy
+msgid "Blog Page Settings"
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-options.php:421
+msgid "This section controls the blog settings for the theme."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:428
+#: ../lib/admin/inc/theme-options.php:663
+#: ../lib/admin/inc/theme-options.php:922
+msgid ""
+"The width to crop the thumbnail to (can be overridden on individual posts)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:437
+#: ../lib/admin/inc/theme-options.php:672
+#: ../lib/admin/inc/theme-options.php:931
+msgid ""
+"The height to crop the thumbnail to (can be overridden on individual posts, "
+"set to 0 to have a proportionate height)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:455
+msgid "Blog Category IDs"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:465
+#: ../lib/admin/inc/theme-options.php:691
+#: ../lib/admin/inc/theme-options.php:950
+msgid "Choose which sidebar area to display."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:504
+#: ../lib/admin/inc/theme-options.php:730
+#: ../lib/admin/inc/theme-options.php:989
+msgid "The number of posts per page."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:514
+#: ../lib/admin/inc/theme-options.php:740
+#: ../lib/admin/inc/theme-options.php:999
+msgid "Choose how to display your posts."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:524
+#: ../lib/admin/inc/theme-options.php:760
+#: ../lib/admin/inc/theme-options.php:1019
+msgid "Choose whether to display the full post content or an excerpt."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:533
+#: ../lib/admin/inc/theme-options.php:769
+#: ../lib/admin/inc/theme-options.php:1028
+#: ../lib/admin/inc/widgets/you-may-like.php:222
+msgid "Title Length"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:534
+#: ../lib/admin/inc/theme-options.php:770
+#: ../lib/admin/inc/theme-options.php:1029
+msgid "The number of characters in titles."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:543
+#: ../lib/admin/inc/theme-options.php:779
+#: ../lib/admin/inc/theme-options.php:1038
+#: ../lib/admin/inc/widgets/you-may-like.php:227
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:544
+#: ../lib/admin/inc/theme-options.php:780
+#: ../lib/admin/inc/theme-options.php:1039
+msgid "The number of characters in excerpts."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:553
+#: ../lib/admin/inc/theme-options.php:789
+#: ../lib/admin/inc/theme-options.php:1048
+msgid "Read More Link"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:554
+#: ../lib/admin/inc/theme-options.php:790
+#: ../lib/admin/inc/theme-options.php:1049
+msgid "Choose whether to display the read more links."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:563
+#: ../lib/admin/inc/theme-options.php:799
+#: ../lib/admin/inc/theme-options.php:1058
+msgid "Drop Down Menu Filter"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:564
+#: ../lib/admin/inc/theme-options.php:800
+#: ../lib/admin/inc/theme-options.php:1059
+msgid "Choose whether to display the drop down menu filter."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:571
+#: ../lib/admin/inc/theme-options.php:807
+#: ../lib/admin/inc/theme-options.php:1066
+msgid "Date Filter"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:572
+#: ../lib/admin/inc/theme-options.php:808
+#: ../lib/admin/inc/theme-options.php:1067
+msgid "Choose whether to display the filter by date option."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:579
+#: ../lib/admin/inc/theme-options.php:815
+#: ../lib/admin/inc/theme-options.php:1074
+msgid "Title Filter"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:580
+#: ../lib/admin/inc/theme-options.php:816
+#: ../lib/admin/inc/theme-options.php:1075
+msgid "Choose whether to display the filter by title option."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:587
+#: ../lib/admin/inc/theme-options.php:823
+#: ../lib/admin/inc/theme-options.php:1082
+msgid "Site Score Filter"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:588
+#: ../lib/admin/inc/theme-options.php:824
+#: ../lib/admin/inc/theme-options.php:1083
+msgid "Choose whether to display the filter by site score option."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:595
+#: ../lib/admin/inc/theme-options.php:831
+#: ../lib/admin/inc/theme-options.php:1090
+msgid "User Score Filter"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:596
+#: ../lib/admin/inc/theme-options.php:832
+#: ../lib/admin/inc/theme-options.php:1091
+msgid "Choose whether to display the filter by user score option."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:605
+#: ../lib/admin/inc/theme-options.php:841
+#: ../lib/admin/inc/theme-options.php:1100
+#: ../lib/admin/inc/theme-options.php:1232
+#: ../lib/admin/inc/theme-options.php:1574
+msgid "Post Date"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:606
+#: ../lib/admin/inc/theme-options.php:842
+#: ../lib/admin/inc/theme-options.php:1101
+#: ../lib/admin/inc/theme-options.php:1233
+msgid "Choose whether to display the post date."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:613
+#: ../lib/admin/inc/theme-options.php:849
+#: ../lib/admin/inc/theme-options.php:1108
+#: ../lib/admin/inc/theme-options.php:1240
+#: ../lib/admin/inc/theme-options.php:1582
+msgid "Post Author"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:614
+#: ../lib/admin/inc/theme-options.php:850
+#: ../lib/admin/inc/theme-options.php:1109
+#: ../lib/admin/inc/theme-options.php:1241
+msgid "Choose whether to display the post author."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:621
+#: ../lib/admin/inc/theme-options.php:857
+#: ../lib/admin/inc/theme-options.php:1116
+#: ../lib/admin/inc/theme-options.php:1248
+#: ../lib/admin/inc/theme-options.php:1590
+msgid "Post Categories"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:622
+#: ../lib/admin/inc/theme-options.php:858
+#: ../lib/admin/inc/theme-options.php:1117
+#: ../lib/admin/inc/theme-options.php:1249
+msgid "Choose whether to display the post categories."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:629
+#: ../lib/admin/inc/theme-options.php:865
+#: ../lib/admin/inc/theme-options.php:1124
+#: ../lib/admin/inc/theme-options.php:1256
+#: ../lib/admin/inc/theme-options.php:1598
+msgid "Post Comments"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:630
+#: ../lib/admin/inc/theme-options.php:866
+#: ../lib/admin/inc/theme-options.php:1125
+#: ../lib/admin/inc/theme-options.php:1257
+msgid "Choose whether to display the post comments."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:637
+#: ../lib/admin/inc/theme-options.php:873
+#: ../lib/admin/inc/theme-options.php:1132
+#: ../lib/admin/inc/theme-options.php:1264
+#: ../lib/admin/inc/theme-options.php:1606
+msgid "Post Tags"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:638
+#: ../lib/admin/inc/theme-options.php:874
+#: ../lib/admin/inc/theme-options.php:1133
+#: ../lib/admin/inc/theme-options.php:1265
+#: ../lib/admin/inc/theme-options.php:1607
+msgid "Choose whether to display the post tags."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:646
+#: ../lib/admin/inc/theme-options.php:653
+msgid "Post Category Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:656
+msgid ""
+"This section controls the global settings for all post category, archive, "
+"tag and search result pages."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:749
+#: ../lib/admin/inc/theme-options.php:1008
+msgid "Rating Type"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:750
+#: ../lib/admin/inc/theme-options.php:1009
+msgid "Choose the rating type to display."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:753
+#: ../lib/admin/inc/theme-options.php:1012
+#: ../lib/admin/inc/widgets/review-boxes.php:284
+#: ../lib/admin/inc/widgets/review-lists.php:190
+#: ../lib/admin/inc/widgets/review-post-entries.php:340
+#: ../lib/admin/inc/widgets/you-may-like.php:216
+msgid "Site & User Rating"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:753
+#: ../lib/admin/inc/theme-options.php:1012
+#: ../lib/admin/inc/widgets/review-boxes.php:285
+#: ../lib/admin/inc/widgets/review-lists.php:191
+#: ../lib/admin/inc/widgets/review-post-entries.php:341
+#: ../lib/admin/inc/widgets/you-may-like.php:217
+msgid "No Ratings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:882
+#: ../lib/admin/inc/theme-options.php:889
+msgid "Review Category Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:892
+msgid ""
+"This section controls the global settings for all review category, archive, "
+"tag and search result pages."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:898
+msgid "Review Category Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:899
+msgid ""
+"The singular name for your review categories. <strong>After saving this "
+"page, go to <em>Settings -> Permalinks</em> and click <em>Save Changes</em>."
+"</strong>"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:905
+msgid "Review Category Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:906
+msgid ""
+"The plural name for your review categories. <strong>After saving this page, "
+"go to <em>Settings -> Permalinks</em> and click <em>Save Changes</em>.</"
+"strong>"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:912
+msgid "Review Category Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:913
+msgid ""
+"The slug used in review category URLs. <strong>After saving this page, go to "
+"<em>Settings -> Permalinks</em> and click <em>Save Changes</em>.</strong>"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1151
+msgid ""
+"This section controls the global settings for all posts, but most settings "
+"can be overridden on individual posts."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1158
+msgid ""
+"Choose whether to display the featured image (can be overridden on "
+"individual posts)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1166
+msgid "The width to crop the image to (can be overridden on individual posts)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1175
+msgid ""
+"The height to crop the image to (can be overridden on individual posts, set "
+"to 0 to have a proportionate height)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1194
+msgid ""
+"Choose which sidebar area to display (can be overridden on individual posts)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1203
+msgid "Choose the page layout (can be overridden on individual posts)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1213
+msgid ""
+"Choose whether to display the page title (can be overridden on individual "
+"posts)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1223
+msgid ""
+"Choose whether users can rate other comments (can be overridden on "
+"individual posts)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1283
+msgid ""
+"This section controls the global settings for all pages, but most settings "
+"can be overridden on individual pages."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1290
+msgid ""
+"Choose whether to display the featured image (can be overridden on "
+"individual pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1298
+msgid "The width to crop the image to (can be overridden on individual pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1307
+msgid ""
+"The height to crop the image to (can be overridden on individual pages, set "
+"to 0 to have a proportionate height)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1316
+msgid ""
+"Choose whether the page content wraps around the featured image (can be "
+"overridden on individual pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1326
+msgid ""
+"Choose which sidebar area to display (can be overridden on individual pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1335
+msgid "Choose the page layout (can be overridden on individual pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1345
+msgid ""
+"Choose whether to display the page title (can be overridden on individual "
+"pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1355
+msgid ""
+"Choose whether users can rate other comments (can be overridden on "
+"individual pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1364
+#, fuzzy
+msgid "Page Date"
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-options.php:1365
+msgid "Choose whether to display the page date."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1372
+#, fuzzy
+msgid "Page Author"
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-options.php:1373
+msgid "Choose whether to display the page author."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1380
+#, fuzzy
+msgid "Page Comments"
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-options.php:1381
+msgid "Choose whether to display the page comments."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1399
+msgid ""
+"This section controls the global settings for all reviews, but most settings "
+"can be overridden on individual reviews."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1405
+msgid "Review Page Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1406
+msgid ""
+"The singular name for your review pages. <strong>After saving this page, go "
+"to <em>Settings -> Permalinks</em> and click <em>Save Changes</em>.</strong>"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1412
+msgid "Review Page Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1413
+msgid ""
+"The plural name for your review pages. <strong>After saving this page, go to "
+"<em>Settings -> Permalinks</em> and click <em>Save Changes</em>.</strong>"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1419
+#, fuzzy
+msgid "Review Page Slug"
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-options.php:1420
+msgid ""
+"The slug used for your review page URLs. <strong>After saving this page, go "
+"to <em>Settings -> Permalinks</em> and click <em>Save Changes</em>.</strong>"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1429
+msgid ""
+"Choose whether to display the featured image (can be overridden on "
+"individual review pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1437
+msgid ""
+"The width to crop the image to (can be overridden on individual review "
+"pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1446
+msgid ""
+"The height to crop the image to (can be overridden on individual review "
+"pages, set to 0 to have a proportionate height)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1457
+msgid ""
+"Choose which sidebar area to display (can be overridden on individual "
+"reviews)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1466
+msgid "Choose the page layout (can be overridden on individual review pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1486
+msgid ""
+"The width of the review panel containing the review image and ratings (can "
+"be overridden on individual review pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1495
+msgid ""
+"Choose the position of the review tabs and sidebar (can be overridden on "
+"individual review pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1503
+msgid ""
+"Choose the position of the review text (can be overridden on individual "
+"review pages)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1513
+msgid "Choose how users can vote (can be overridden on individual reviews)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1521
+msgid ""
+"Choose whether users can post unlimited comments in reviews (can be "
+"overridden on individual reviews, only works with registered users)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1529
+msgid ""
+"Choose whether users can rate other comments (can be overridden on "
+"individual reviews)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1554
+msgid "Review Tag Links"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1555
+msgid "Choose whether to link the review tags on review pages."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1564
+msgid "Old Review Tags"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1565
+msgid "If you cannot see your review tags enable this option."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1575
+msgid "Choose whether to display the review date."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1583
+msgid "Choose whether to display the review author."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1591
+msgid "Choose whether to display the review categories."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1599
+msgid "Choose whether to display the review comments."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1616
+msgid "Review Tag 1"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1623
+msgid "Review Tag 1 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1624
+#: ../lib/admin/inc/theme-options.php:1654
+#: ../lib/admin/inc/theme-options.php:1684
+#: ../lib/admin/inc/theme-options.php:1714
+#: ../lib/admin/inc/theme-options.php:1744
+#: ../lib/admin/inc/theme-options.php:1774
+#: ../lib/admin/inc/theme-options.php:1804
+#: ../lib/admin/inc/theme-options.php:1834
+#: ../lib/admin/inc/theme-options.php:1864
+#: ../lib/admin/inc/theme-options.php:1894
+#: ../lib/admin/inc/theme-options.php:1924
+#: ../lib/admin/inc/theme-options.php:1954
+#: ../lib/admin/inc/theme-options.php:1984
+#: ../lib/admin/inc/theme-options.php:2014
+#: ../lib/admin/inc/theme-options.php:2044
+#: ../lib/admin/inc/theme-options.php:2072
+#: ../lib/admin/inc/theme-options.php:2102
+#: ../lib/admin/inc/theme-options.php:2132
+#: ../lib/admin/inc/theme-options.php:2162
+#: ../lib/admin/inc/theme-options.php:2192
+msgid ""
+"The singular name used for this review tag. <strong>After saving this page, "
+"go to <em>Settings -> Permalinks</em> and click <em>Save Changes</em>.</"
+"strong>"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1630
+msgid "Review Tag 1 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1631
+#: ../lib/admin/inc/theme-options.php:1661
+#: ../lib/admin/inc/theme-options.php:1691
+#: ../lib/admin/inc/theme-options.php:1721
+#: ../lib/admin/inc/theme-options.php:1751
+#: ../lib/admin/inc/theme-options.php:1781
+#: ../lib/admin/inc/theme-options.php:1811
+#: ../lib/admin/inc/theme-options.php:1841
+#: ../lib/admin/inc/theme-options.php:1871
+#: ../lib/admin/inc/theme-options.php:1901
+#: ../lib/admin/inc/theme-options.php:1931
+#: ../lib/admin/inc/theme-options.php:1961
+#: ../lib/admin/inc/theme-options.php:1991
+#: ../lib/admin/inc/theme-options.php:2021
+#: ../lib/admin/inc/theme-options.php:2051
+#: ../lib/admin/inc/theme-options.php:2079
+#: ../lib/admin/inc/theme-options.php:2109
+#: ../lib/admin/inc/theme-options.php:2139
+#: ../lib/admin/inc/theme-options.php:2169
+#: ../lib/admin/inc/theme-options.php:2199
+msgid ""
+"The plural name used for this review tag. <strong>After saving this page, go "
+"to <em>Settings -> Permalinks</em> and click <em>Save Changes</em>.</strong>"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1637
+msgid "Review Tag 1 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1638
+#: ../lib/admin/inc/theme-options.php:1668
+#: ../lib/admin/inc/theme-options.php:1698
+msgid ""
+"The name used for this review tag. <strong>After saving this page, go to "
+"<em>Settings -> Permalinks</em> and click <em>Save Changes</em>.</strong>"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1646
+msgid "Review Tag 2"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1653
+msgid "Review Tag 2 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1660
+msgid "Review Tag 2 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1667
+msgid "Review Tag 2 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1676
+msgid "Review Tag 3"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1683
+msgid "Review Tag 3 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1690
+msgid "Review Tag 3 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1697
+msgid "Review Tag 3 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1706
+msgid "Review Tag 4"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1713
+msgid "Review Tag 4 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1720
+msgid "Review Tag 4 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1727
+msgid "Review Tag 4 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1728
+#: ../lib/admin/inc/theme-options.php:1758
+#: ../lib/admin/inc/theme-options.php:1788
+#: ../lib/admin/inc/theme-options.php:1818
+#: ../lib/admin/inc/theme-options.php:1848
+#: ../lib/admin/inc/theme-options.php:1878
+#: ../lib/admin/inc/theme-options.php:1908
+#: ../lib/admin/inc/theme-options.php:1938
+#: ../lib/admin/inc/theme-options.php:1968
+#: ../lib/admin/inc/theme-options.php:1998
+#: ../lib/admin/inc/theme-options.php:2028
+#: ../lib/admin/inc/theme-options.php:2058
+#: ../lib/admin/inc/theme-options.php:2086
+#: ../lib/admin/inc/theme-options.php:2116
+#: ../lib/admin/inc/theme-options.php:2146
+#: ../lib/admin/inc/theme-options.php:2176
+#: ../lib/admin/inc/theme-options.php:2206
+msgid ""
+"The slug used for this review tag. <strong>After saving this page, go to "
+"<em>Settings -> Permalinks</em> and click <em>Save Changes</em>.</strong>"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1736
+msgid "Review Tag 5"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1743
+msgid "Review Tag 5 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1750
+msgid "Review Tag 5 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1757
+msgid "Review Tag 5 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1766
+msgid "Review Tag 6"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1773
+msgid "Review Tag 6 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1780
+msgid "Review Tag 6 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1787
+msgid "Review Tag 6 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1796
+msgid "Review Tag 7"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1803
+msgid "Review Tag 7 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1810
+msgid "Review Tag 7 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1817
+msgid "Review Tag 7 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1826
+msgid "Review Tag 8"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1833
+msgid "Review Tag 8 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1840
+msgid "Review Tag 8 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1847
+msgid "Review Tag 8 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1856
+msgid "Review Tag 9"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1863
+msgid "Review Tag 9 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1870
+msgid "Review Tag 9 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1877
+msgid "Review Tag 9 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1886
+msgid "Review Tag 10"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1893
+msgid "Review Tag 10 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1900
+msgid "Review Tag 10 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1907
+msgid "Review Tag 10 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1916
+msgid "Review Tag 11"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1923
+msgid "Review Tag 11 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1930
+msgid "Review Tag 11 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1937
+msgid "Review Tag 11 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1946
+msgid "Review Tag 12"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1953
+msgid "Review Tag 12 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1960
+msgid "Review Tag 12 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1967
+msgid "Review Tag 12 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1976
+msgid "Review Tag 13"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1983
+msgid "Review Tag 13 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1990
+msgid "Review Tag 13 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:1997
+msgid "Review Tag 13 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2006
+msgid "Review Tag 14"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2013
+msgid "Review Tag 14 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2020
+msgid "Review Tag 14 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2027
+msgid "Review Tag 14 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2036
+msgid "Review Tag 15"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2043
+msgid "Review Tag 15 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2050
+msgid "Review Tag 15 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2057
+msgid "Review Tag 15 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2064
+msgid "Review Tag 16"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2071
+msgid "Review Tag 16 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2078
+msgid "Review Tag 16 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2085
+msgid "Review Tag 16 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2094
+msgid "Review Tag 17"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2101
+msgid "Review Tag 17 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2108
+msgid "Review Tag 17 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2115
+msgid "Review Tag 17 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2124
+msgid "Review Tag 18"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2131
+msgid "Review Tag 18 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2138
+msgid "Review Tag 18 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2145
+msgid "Review Tag 18 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2154
+msgid "Review Tag 19"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2161
+msgid "Review Tag 19 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2168
+msgid "Review Tag 19 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2175
+msgid "Review Tag 19 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2184
+msgid "Review Tag 20"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2191
+msgid "Review Tag 20 Singular Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2198
+msgid "Review Tag 20 Plural Name"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2205
+msgid "Review Tag 20 Slug"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2213
+#: ../lib/admin/inc/theme-options.php:2220
+msgid "Style Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2223
+msgid ""
+"This section provides you with some basic settings to change the look of the "
+"theme. If you want to customize the design of the theme further you can add "
+"your own CSS styling in the \"CSS Settings\" tab."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2229
+msgid "Cufon Fonts"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2230
+msgid "Check fonts to enable."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2279
+msgid "Cufon Replacement Code"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2280
+msgid ""
+"If you want to add cufon to other text or use more than one cufon font e.g. "
+"<code>Cufon.replace(\"h1,h2,h3,h4,h5,h6\", {fontFamily: \"Vegur\"});</"
+"code><br/><code>Cufon.replace(\"#logo-text\", {fontFamily: \"Sansation\"});</"
+"code>"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2287
+msgid "CSS Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2297
+msgid ""
+"You can add your own CSS below to style the theme. This CSS will not be lost "
+"if you update the theme. For more information on how to find the names of "
+"the elements you want to style  click"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2297
+msgid "here"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2303
+msgid "Custom CSS"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2351
+#: ../lib/admin/inc/theme-options.php:2370
+msgid "Theme Options"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2359
+msgid "Options Saved"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2360
+msgid "Options Reset"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2372
+#: ../lib/admin/inc/theme-options.php:2701
+msgid "Help File"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2372
+#: ../lib/admin/inc/theme-options.php:2701
+msgid "Changelog"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2372
+#: ../lib/admin/inc/theme-options.php:2701
+msgid "Support"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2372
+#: ../lib/admin/inc/theme-options.php:2701
+msgid "Premium Services"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2376
+msgid "Import Theme Options"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2377
+msgid "If you have a back up of your theme options you can import them below."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2387
+msgid "Export Theme Options"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2388
+msgid ""
+"If you want to create a back up of all your theme options click the Export "
+"button below (will only back up your theme options and not your post/page/"
+"images data)."
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2391
+msgid "Export Theme Settings"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2402
+msgid "Import/Export Theme Options"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2404
+#: ../lib/admin/inc/theme-options.php:2612
+msgid "Save Changes"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2617
+msgid "Are you sure you want to reset all the theme options&#63;"
+msgstr ""
+
+#: ../lib/admin/inc/theme-options.php:2618
+msgid "Reset"
+msgstr ""
+
+#: ../lib/admin/inc/theme-other-options.php:15
+msgid "Lightbox URL"
+msgstr ""
+
+#: ../lib/admin/inc/theme-other-options.php:18
+msgid "The URL of an image, video or audio file that loads in the lightbox."
+msgstr ""
+
+#: ../lib/admin/inc/theme-post-types.php:50
+#: ../lib/admin/inc/theme-post-types.php:82
+#: ../lib/admin/inc/theme-post-types.php:103
+#: ../lib/admin/inc/theme-post-types.php:123
+#: ../lib/admin/inc/theme-post-types.php:143
+#: ../lib/admin/inc/theme-post-types.php:162
+#: ../lib/admin/inc/theme-post-types.php:181
+#: ../lib/admin/inc/theme-post-types.php:200
+#: ../lib/admin/inc/theme-post-types.php:219
+#: ../lib/admin/inc/theme-post-types.php:238
+#: ../lib/admin/inc/theme-post-types.php:257
+#: ../lib/admin/inc/theme-post-types.php:276
+#: ../lib/admin/inc/theme-post-types.php:295
+#: ../lib/admin/inc/theme-post-types.php:314
+#: ../lib/admin/inc/theme-post-types.php:333
+#: ../lib/admin/inc/theme-post-types.php:352
+#: ../lib/admin/inc/theme-post-types.php:371
+#: ../lib/admin/inc/theme-post-types.php:390
+#: ../lib/admin/inc/theme-post-types.php:409
+#: ../lib/admin/inc/theme-post-types.php:428
+#: ../lib/admin/inc/theme-post-types.php:447
+#: ../lib/admin/inc/theme-post-types.php:466
+msgid "All "
+msgstr ""
+
+#: ../lib/admin/inc/theme-post-types.php:51
+#: ../lib/admin/inc/theme-post-types.php:83
+#: ../lib/admin/inc/theme-post-types.php:104
+#: ../lib/admin/inc/theme-post-types.php:105
+#: ../lib/admin/inc/theme-post-types.php:124
+#: ../lib/admin/inc/theme-post-types.php:125
+#: ../lib/admin/inc/theme-post-types.php:144
+#: ../lib/admin/inc/theme-post-types.php:163
+#: ../lib/admin/inc/theme-post-types.php:182
+#: ../lib/admin/inc/theme-post-types.php:201
+#: ../lib/admin/inc/theme-post-types.php:220
+#: ../lib/admin/inc/theme-post-types.php:239
+#: ../lib/admin/inc/theme-post-types.php:258
+#: ../lib/admin/inc/theme-post-types.php:277
+#: ../lib/admin/inc/theme-post-types.php:296
+#: ../lib/admin/inc/theme-post-types.php:315
+#: ../lib/admin/inc/theme-post-types.php:334
+#: ../lib/admin/inc/theme-post-types.php:353
+#: ../lib/admin/inc/theme-post-types.php:372
+#: ../lib/admin/inc/theme-post-types.php:391
+#: ../lib/admin/inc/theme-post-types.php:410
+#: ../lib/admin/inc/theme-post-types.php:429
+#: ../lib/admin/inc/theme-post-types.php:448
+#: ../lib/admin/inc/theme-post-types.php:467
+msgctxt "review"
+msgid "Add New"
+msgstr ""
+
+#: ../lib/admin/inc/theme-post-types.php:52
+msgid "Add New Review"
+msgstr ""
+
+#: ../lib/admin/inc/theme-post-types.php:53
+#: ../lib/admin/inc/theme-post-types.php:85
+#: ../lib/admin/inc/theme-post-types.php:107
+#: ../lib/admin/inc/theme-post-types.php:127
+#: ../lib/admin/inc/theme-post-types.php:146
+#: ../lib/admin/inc/theme-post-types.php:165
+#: ../lib/admin/inc/theme-post-types.php:184
+#: ../lib/admin/inc/theme-post-types.php:203
+#: ../lib/admin/inc/theme-post-types.php:222
+#: ../lib/admin/inc/theme-post-types.php:241
+#: ../lib/admin/inc/theme-post-types.php:260
+#: ../lib/admin/inc/theme-post-types.php:279
+#: ../lib/admin/inc/theme-post-types.php:298
+#: ../lib/admin/inc/theme-post-types.php:317
+#: ../lib/admin/inc/theme-post-types.php:336
+#: ../lib/admin/inc/theme-post-types.php:355
+#: ../lib/admin/inc/theme-post-types.php:374
+#: ../lib/admin/inc/theme-post-types.php:393
+#: ../lib/admin/inc/theme-post-types.php:412
+#: ../lib/admin/inc/theme-post-types.php:431
+#: ../lib/admin/inc/theme-post-types.php:450
+#: ../lib/admin/inc/theme-post-types.php:469
+msgid "Edit "
+msgstr ""
+
+#: ../lib/admin/inc/theme-post-types.php:54
+#: ../lib/admin/inc/theme-post-types.php:86
+#: ../lib/admin/inc/theme-post-types.php:108
+#: ../lib/admin/inc/theme-post-types.php:128
+#: ../lib/admin/inc/theme-post-types.php:147
+#: ../lib/admin/inc/theme-post-types.php:166
+#: ../lib/admin/inc/theme-post-types.php:185
+#: ../lib/admin/inc/theme-post-types.php:204
+#: ../lib/admin/inc/theme-post-types.php:223
+#: ../lib/admin/inc/theme-post-types.php:242
+#: ../lib/admin/inc/theme-post-types.php:261
+#: ../lib/admin/inc/theme-post-types.php:280
+#: ../lib/admin/inc/theme-post-types.php:299
+#: ../lib/admin/inc/theme-post-types.php:318
+#: ../lib/admin/inc/theme-post-types.php:337
+#: ../lib/admin/inc/theme-post-types.php:356
+#: ../lib/admin/inc/theme-post-types.php:375
+#: ../lib/admin/inc/theme-post-types.php:394
+#: ../lib/admin/inc/theme-post-types.php:413
+#: ../lib/admin/inc/theme-post-types.php:432
+#: ../lib/admin/inc/theme-post-types.php:451
+#: ../lib/admin/inc/theme-post-types.php:470
+msgid "New "
+msgstr ""
+
+#: ../lib/admin/inc/theme-post-types.php:55
+#: ../lib/admin/inc/theme-post-types.php:87
+#: ../lib/admin/inc/theme-post-types.php:109
+#: ../lib/admin/inc/theme-post-types.php:129
+#: ../lib/admin/inc/theme-post-types.php:148
+#: ../lib/admin/inc/theme-post-types.php:167
+#: ../lib/admin/inc/theme-post-types.php:186
+#: ../lib/admin/inc/theme-post-types.php:205
+#: ../lib/admin/inc/theme-post-types.php:224
+#: ../lib/admin/inc/theme-post-types.php:243
+#: ../lib/admin/inc/theme-post-types.php:262
+#: ../lib/admin/inc/theme-post-types.php:281
+#: ../lib/admin/inc/theme-post-types.php:300
+#: ../lib/admin/inc/theme-post-types.php:319
+#: ../lib/admin/inc/theme-post-types.php:338
+#: ../lib/admin/inc/theme-post-types.php:357
+#: ../lib/admin/inc/theme-post-types.php:376
+#: ../lib/admin/inc/theme-post-types.php:395
+#: ../lib/admin/inc/theme-post-types.php:414
+#: ../lib/admin/inc/theme-post-types.php:433
+#: ../lib/admin/inc/theme-post-types.php:452
+#: ../lib/admin/inc/theme-post-types.php:471
+msgid "View "
+msgstr ""
+
+#: ../lib/admin/inc/theme-post-types.php:56
+#: ../lib/admin/inc/theme-post-types.php:88
+#: ../lib/admin/inc/theme-post-types.php:110
+#: ../lib/admin/inc/theme-post-types.php:130
+#: ../lib/admin/inc/theme-post-types.php:149
+#: ../lib/admin/inc/theme-post-types.php:168
+#: ../lib/admin/inc/theme-post-types.php:187
+#: ../lib/admin/inc/theme-post-types.php:206
+#: ../lib/admin/inc/theme-post-types.php:225
+#: ../lib/admin/inc/theme-post-types.php:244
+#: ../lib/admin/inc/theme-post-types.php:263
+#: ../lib/admin/inc/theme-post-types.php:282
+#: ../lib/admin/inc/theme-post-types.php:301
+#: ../lib/admin/inc/theme-post-types.php:320
+#: ../lib/admin/inc/theme-post-types.php:339
+#: ../lib/admin/inc/theme-post-types.php:358
+#: ../lib/admin/inc/theme-post-types.php:377
+#: ../lib/admin/inc/theme-post-types.php:396
+#: ../lib/admin/inc/theme-post-types.php:415
+#: ../lib/admin/inc/theme-post-types.php:434
+#: ../lib/admin/inc/theme-post-types.php:453
+#: ../lib/admin/inc/theme-post-types.php:472
+msgid "Search "
+msgstr ""
+
+#: ../lib/admin/inc/theme-post-types.php:84
+#: ../lib/admin/inc/theme-post-types.php:106
+#: ../lib/admin/inc/theme-post-types.php:126
+#: ../lib/admin/inc/theme-post-types.php:145
+#: ../lib/admin/inc/theme-post-types.php:164
+#: ../lib/admin/inc/theme-post-types.php:183
+#: ../lib/admin/inc/theme-post-types.php:202
+#: ../lib/admin/inc/theme-post-types.php:221
+#: ../lib/admin/inc/theme-post-types.php:240
+#: ../lib/admin/inc/theme-post-types.php:259
+#: ../lib/admin/inc/theme-post-types.php:278
+#: ../lib/admin/inc/theme-post-types.php:297
+#: ../lib/admin/inc/theme-post-types.php:316
+#: ../lib/admin/inc/theme-post-types.php:335
+#: ../lib/admin/inc/theme-post-types.php:354
+#: ../lib/admin/inc/theme-post-types.php:373
+#: ../lib/admin/inc/theme-post-types.php:392
+#: ../lib/admin/inc/theme-post-types.php:411
+#: ../lib/admin/inc/theme-post-types.php:430
+#: ../lib/admin/inc/theme-post-types.php:449
+#: ../lib/admin/inc/theme-post-types.php:468
+msgid "Add New "
+msgstr ""
+
+#: ../lib/admin/inc/theme-post-types.php:491
+#: ../lib/admin/inc/widgets/review-categories.php:15
+msgid "Categories"
+msgstr ""
+
+#: ../lib/admin/inc/theme-post-types.php:492
+msgid "Tags"
+msgstr ""
+
+#: ../lib/admin/inc/theme-post-types.php:493
+msgid "Image"
+msgstr ""
+
+#: ../lib/admin/inc/theme-sidebars.php:5
+msgid "Standard Sidebar"
+msgstr ""
+
+#: ../lib/admin/inc/theme-sidebars.php:11
+msgid "Homepage (Left)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-sidebars.php:17
+msgid "Homepage Sidebar (Right)"
+msgstr ""
+
+#: ../lib/admin/inc/theme-sidebars.php:23
+#, fuzzy
+msgid "Contact Page Sidebar"
+msgstr "Test"
+
+#: ../lib/admin/inc/theme-sidebars.php:29
+msgid "Footer 1"
+msgstr ""
+
+#: ../lib/admin/inc/theme-sidebars.php:35
+msgid "Footer 2"
+msgstr ""
+
+#: ../lib/admin/inc/theme-sidebars.php:41
+msgid "Footer 3"
+msgstr ""
+
+#: ../lib/admin/inc/theme-sidebars.php:47
+msgid "Footer 4"
+msgstr ""
+
+#: ../lib/admin/inc/tinymce/window_options.php:8
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../lib/admin/inc/tinymce/window_options.php:13
+msgid " Shortcodes"
+msgstr ""
+
+#: ../lib/admin/inc/tinymce/window_options.php:25
+msgid "Shortcodes"
+msgstr ""
+
+#: ../lib/admin/inc/tinymce/window_options.php:34
+msgid "Insert a shortcode from the drop down menu."
+msgstr ""
+
+#: ../lib/admin/inc/tinymce/window_options.php:38
+msgid "Select A Shortcode"
+msgstr ""
+
+#: ../lib/admin/inc/tinymce/window_options.php:90
+msgid "Cancel"
+msgstr ""
+
+#: ../lib/admin/inc/tinymce/window_options.php:94
+msgid "Insert"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/latest-members.php:13
+msgid "Displays the avatars of the latest registered users."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/latest-members.php:14
+msgid "GP Latest Members"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/latest-members.php:56
+#: ../lib/admin/inc/widgets/post-boxes.php:179
+#: ../lib/admin/inc/widgets/recent-comments.php:75
+#: ../lib/admin/inc/widgets/review-boxes.php:241
+#: ../lib/admin/inc/widgets/review-categories.php:120
+#: ../lib/admin/inc/widgets/review-lists.php:164
+#: ../lib/admin/inc/widgets/review-post-entries.php:279
+#: ../lib/admin/inc/widgets/you-may-like.php:178
+msgid "Title:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/latest-members.php:61
+msgid "Number Of Avatars:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:22
+msgid "Display your posts in boxes."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:23
+msgid "GP Post Boxes"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:77
+#: ../lib/admin/inc/widgets/review-boxes.php:79
+msgid "See All"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:184
+msgid "Post Category IDs:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:186
+msgid ""
+"Enter the IDs of the <a href=\"../wp-admin/edit-tags.php?taxonomy=category"
+"\">post categories</a> you want to display (leave blank to display all "
+"categories)."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:190
+#, fuzzy
+msgid "Posts Per Page:"
+msgstr "Test"
+
+#: ../lib/admin/inc/widgets/post-boxes.php:195
+#: ../lib/admin/inc/widgets/review-boxes.php:257
+#: ../lib/admin/inc/widgets/you-may-like.php:194
+msgid "Post Display:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:203
+#: ../lib/admin/inc/widgets/review-boxes.php:265
+#: ../lib/admin/inc/widgets/review-post-entries.php:318
+msgid "Image Width (px):"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:208
+#: ../lib/admin/inc/widgets/review-boxes.php:270
+#: ../lib/admin/inc/widgets/review-post-entries.php:323
+msgid "Image Height (px):"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:213
+#: ../lib/admin/inc/widgets/review-boxes.php:275
+msgid "Box Height (px):"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:218
+#: ../lib/admin/inc/widgets/review-boxes.php:290
+#: ../lib/admin/inc/widgets/review-lists.php:196
+#: ../lib/admin/inc/widgets/review-post-entries.php:346
+msgid "Sort By:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:222
+#: ../lib/admin/inc/widgets/review-boxes.php:297
+#: ../lib/admin/inc/widgets/review-lists.php:203
+#: ../lib/admin/inc/widgets/review-post-entries.php:353
+msgid "Random"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:227
+#: ../lib/admin/inc/widgets/review-boxes.php:302
+#: ../lib/admin/inc/widgets/review-lists.php:208
+#: ../lib/admin/inc/widgets/review-post-entries.php:358
+msgid "Order:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:235
+#: ../lib/admin/inc/widgets/review-boxes.php:316
+#: ../lib/admin/inc/widgets/review-lists.php:222
+msgid "Title Length:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:240
+#: ../lib/admin/inc/widgets/review-boxes.php:321
+#: ../lib/admin/inc/widgets/review-post-entries.php:380
+msgid "Excerpt Length:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/post-boxes.php:245
+#: ../lib/admin/inc/widgets/review-boxes.php:326
+#: ../lib/admin/inc/widgets/review-post-entries.php:385
+#, fuzzy
+msgid "Page Numbers:"
+msgstr "Test"
+
+#: ../lib/admin/inc/widgets/post-boxes.php:253
+#: ../lib/admin/inc/widgets/review-boxes.php:334
+#: ../lib/admin/inc/widgets/review-lists.php:227
+msgid "See All Link:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/recent-comments.php:13
+msgid "Displays recent comments with avatars and comment excerpts."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/recent-comments.php:14
+msgid "GP Recent Comments"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/recent-comments.php:42
+msgid "on"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/recent-comments.php:79
+msgid "Number of Comments:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-boxes.php:22
+msgid "Display your reviews in boxes."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-boxes.php:23
+msgid "GP Review Boxes"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-boxes.php:246
+#: ../lib/admin/inc/widgets/review-lists.php:169
+msgid "Review Category IDs:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-boxes.php:248
+#: ../lib/admin/inc/widgets/review-lists.php:171
+#: ../lib/admin/inc/widgets/you-may-like.php:185
+msgid ""
+"Enter the IDs of the <a href=\"../wp-admin/edit-tags.php?"
+"taxonomy=review_categories&post_type=review\">review categories</a> you want "
+"to display (leave blank to display all categories)."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-boxes.php:252
+#, fuzzy
+msgid "Reviews Per Page:"
+msgstr "Test"
+
+#: ../lib/admin/inc/widgets/review-boxes.php:280
+#: ../lib/admin/inc/widgets/review-lists.php:186
+#: ../lib/admin/inc/widgets/review-post-entries.php:336
+#: ../lib/admin/inc/widgets/you-may-like.php:212
+msgid "Rating Type:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-boxes.php:294
+#: ../lib/admin/inc/widgets/review-lists.php:200
+#: ../lib/admin/inc/widgets/review-post-entries.php:350
+msgid "Number of Votes"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-boxes.php:310
+#: ../lib/admin/inc/widgets/review-lists.php:216
+#: ../lib/admin/inc/widgets/review-post-entries.php:366
+msgid "Multi Set ID:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-boxes.php:312
+#: ../lib/admin/inc/widgets/review-lists.php:218
+#: ../lib/admin/inc/widgets/review-post-entries.php:368
+msgid ""
+"Enter the ID of the <a href=\"admin.php?page=gd-star-rating-multi-sets"
+"\">multi set</a> you want to order your reviews by."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-categories.php:8
+msgid "A list or dropdown of review categories"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-categories.php:9
+msgid "GP Review Categories"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-categories.php:33
+#: ../lib/admin/inc/widgets/review-categories.php:52
+msgid "Select Category"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-categories.php:124
+msgid "Show as dropdown"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-categories.php:127
+msgid "Show post counts"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-categories.php:130
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-lists.php:13
+msgid "Display your reviews in lists."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-lists.php:14
+msgid "GP Review Lists"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-lists.php:137
+msgid "See All &raquo;"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-lists.php:175
+msgid "Review Tag Slug:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-lists.php:177
+msgid ""
+"Enter the slug of the review tag you want to display under the review title "
+"(e.g. <code>genres</code>)."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-lists.php:181
+#: ../lib/admin/inc/widgets/you-may-like.php:189
+msgid "Number Of Reviews:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:22
+msgid "Display your reviews and/or post entries in blog form."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:23
+msgid "GP Review/Post Entries"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:195 ../loop.php:216
+#: ../review-container.php:172 ../review-tabs-loop.php:220
+#: ../single-review.php:87 ../single.php:70
+msgid "Tags: "
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:284
+msgid "Post Type:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:286
+msgid "Posts"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:287
+msgid "Reviews"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:288
+msgid "Both"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:293
+msgid "Category IDs:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:295
+msgid ""
+"Enter the IDs of the <a href=\"../wp-admin/edit-tags.php?taxonomy=category"
+"\">post categories</a> and <a href=\"../wp-admin/edit-tags.php?"
+"taxonomy=review_categories&post_type=review\">review categories</a> you want "
+"to display (leave blank to display all categories)."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:299
+msgid "Number Of Entries:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:304
+msgid "Offset Entries By:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:306
+msgid ""
+"For example to hide the first five entries enter \"5\" (page numbers do not "
+"work with this option)."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:310
+msgid "Images:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:328
+msgid "Image Wrap:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/review-post-entries.php:372
+msgid "Content Display:"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/you-may-like.php:14
+msgid "Displays other reviews that have any of the same post tags."
+msgstr ""
+
+#: ../lib/admin/inc/widgets/you-may-like.php:15
+msgid "GP You May Like"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/you-may-like.php:183
+msgid "Review Category IDs"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/you-may-like.php:202
+msgid "Image Width (px)"
+msgstr ""
+
+#: ../lib/admin/inc/widgets/you-may-like.php:207
+msgid "Image Height (px)"
+msgstr ""
+
+#: ../lib/inc/contact.php:49
+msgid "You have received a message from "
+msgstr ""
+
+#: ../lib/inc/contact.php:51
+msgid "Name: "
+msgstr ""
+
+#: ../lib/inc/contact.php:51
+msgid "Email: "
+msgstr ""
+
+#: ../lib/inc/contact.php:51
+msgid "Comment: "
+msgstr ""
+
+#: ../lib/inc/contact.php:52
+msgid "From: "
+msgstr ""
+
+#: ../lib/inc/contact.php:52
+msgid "Reply-To: "
+msgstr ""
+
+#: ../login.php:52
+msgid "You are already logged in."
+msgstr ""
+
+#: ../login.php:62 ../register-wp.php:62
+msgid "Username"
+msgstr ""
+
+#: ../login.php:65
+msgid "Password"
+msgstr ""
+
+#: ../login.php:68
+msgid "Remember Me"
+msgstr ""
+
+#: ../login.php:81
+msgid "Lost Password"
+msgstr ""
+
+#: ../post-loop.php:8
+msgid "search results for"
+msgstr ""
+
+#: ../post-loop.php:14
+msgid "'s Posts"
+msgstr ""
+
+#: ../post-loop.php:16
+msgid "Archives"
+msgstr ""
+
+#: ../register-wp.php:52
+msgid "You are already registered."
+msgstr ""
+
+#: ../register-wp.php:69
+msgid "Your password will be emailed to you."
+msgstr ""
+
+#: ../review-container.php:28
+msgid "More Images"
+msgstr ""
+
+#: ../review-container.php:139
+msgid "Read More &raquo;"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "search..."
+msgstr ""
+
+#: ../slider.php:292
+msgid ""
+"Your can display slides (custom post type), reviews and posts in the slider. "
+"To do this first assign your slides to one or more"
+msgstr ""
+
+#: ../slider.php:292
+msgid "slider categories"
+msgstr ""
+
+#: ../slider.php:292
+msgid "review categories"
+msgstr ""
+
+#: ../slider.php:292
+msgid "and your chosen posts to one or more"
+msgstr ""
+
+#: ../slider.php:292
+msgid "post categories"
+msgstr ""
+
+#: ../slider.php:292
+msgid ". Now go to"
+msgstr ""
+
+#: ../slider.php:292
+msgid "Appearance -> Theme Options -> Slider Settings"
+msgstr ""
+
+#: ../slider.php:292
+msgid ""
+"and in the <em>Slider Category IDs</em> text field add your slider, review  "
+"and/or post category IDs."
+msgstr ""
