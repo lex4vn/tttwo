@@ -16,6 +16,7 @@
 <?php require(gp_inc . 'options.php'); ?>
 <?php require(gp_inc . 'page-settings.php'); ?>
 <?php wp_head(); ?>
+	<meta name="google-site-verification" content="TL3KuvQY2vY-oU1g-VJwUsRfsZefwst3396SchzzCQg" />
 </head>					
 
 <body <?php body_class($gp_settings['layout'].' '.$gp_settings['skin']); ?>>
